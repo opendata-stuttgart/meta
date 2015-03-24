@@ -1,5 +1,3 @@
-# Sensoren
-
 ## PPD42NS
 
 ### Beschaffung
