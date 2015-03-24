@@ -5,5 +5,5 @@ Dieser soll via freifunk seine Messwerte zu einem zentralen Server schicken, um 
 
 # Status
 
-->  https://github.com/opendata-stuttgart/meta/wiki/status
+->  https://github.com/opendata-stuttgart/meta/issues
 
