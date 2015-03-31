@@ -18,7 +18,7 @@ wget -qO- https://get.docker.com/ | sh
 
 * reboot
 
-* installieren
+* im User home das Repo klonen
 ```
 git clone https://github.com/opendata-stuttgart/feinstaub-api.git
 cd feinstaub-api
@@ -38,7 +38,7 @@ docker run -d --volumes-from feinstaub-data --link feinstaub-db:db --restart=alw
 docker run --name feinstaub-nginx --net="host" --volumes-from feinstaub-data --restart=always -v `pwd`/nginx.conf:/etc/nginx/nginx.conf -d nginx
 ```
 
-## rebuild:
+## rebuild / update
 ```
 ./update.sh
 ```
