@@ -10,6 +10,7 @@
 
 - http://www.sca-shinyei.com/pdf/PPD42NS.pdf
 - http://www.seeedstudio.com/wiki/Grove_-_Dust_Sensor
+- Funktionsweise: http://i.publiclab.org/system/images/photos/000/003/998/original/DustDuino.jpg
 
 ### (Arduino)Code
 
