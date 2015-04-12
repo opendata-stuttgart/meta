@@ -25,3 +25,8 @@ http://www.meetup.com/OK-Lab-Stuttgart-Meet-Up/events/221388213/
   - Gewährleistung
   - Import/Export von Bauteilen aus Asien
   - nicht sinnvoll als Privatperson, besser Verein/Firma
+
+* Wissenschaftliche Basisarbeit
+
+  - Zusammentragen von Papers, Berichten, anderen Experimenten
+  - Zusammenschreiben des aktuellen Zustandes
