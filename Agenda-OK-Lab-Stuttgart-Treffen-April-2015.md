@@ -30,3 +30,5 @@ http://www.meetup.com/OK-Lab-Stuttgart-Meet-Up/events/221388213/
 
   - Zusammentragen von Papers, Berichten, anderen Experimenten
   - Zusammenschreiben des aktuellen Zustandes
+
+* Mithilfe generell erwünscht!
