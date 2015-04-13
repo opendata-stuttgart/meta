@@ -25,6 +25,9 @@ http://www.meetup.com/OK-Lab-Stuttgart-Meet-Up/events/221388213/
   - Gewährleistung
   - Import/Export von Bauteilen aus Asien
   - nicht sinnvoll als Privatperson, besser Verein/Firma
+  - CE-Zertifizierung!
+  - Elektroschrottverordnung
+  - weitere Alternative einen kommerziellen Distributor finden, der das vielleicht auch als Bausatz macht. i.e. Pollin, Watterott, ...
 
 * Wissenschaftliche Basisarbeit
 
