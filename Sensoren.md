@@ -27,6 +27,8 @@
 ### Daten(blatt)
 
 - http://www.howmuchsnow.com/arduino/airquality/
+- http://media.digikey.com/pdf/Data%20Sheets/Sharp%20PDFs/GP2Y1010AU.pdf
+- http://www.dfrobot.com/wiki/index.php/Sharp_GP2Y1010AU
 
 ## dsm501a
 
