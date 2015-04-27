@@ -32,6 +32,9 @@ http://www.meetup.com/OK-Lab-Stuttgart-Meet-Up/events/221388213/
 * Wissenschaftliche Basisarbeit
 
   - Zusammentragen von Papers, Berichten, anderen Experimenten
+    - [Blog von David Holstius](http://www.davidholstius.com/) von der UC Berkeley, der auch Feinstaubmessgeraete mit dem PPD42NS gebaut hat und in seiner Dissertation diese mit teuren Varianten vergleicht.
   - Zusammenschreiben des aktuellen Zustandes
+
+* Vorstellung des Projekts bei [„BaWü-Labs GO!“](http://mwk.baden-wuerttemberg.de/de/forschung/forschungspolitik/wissenschaft-fuer-nachhaltigkeit/oeffentliche-veranstaltung-wissenschaft-fuer-nachhaltigkeit/)
 
 * Mithilfe generell erwünscht!
