@@ -19,6 +19,7 @@ http://www.meetup.com/OK-Lab-Stuttgart-Meet-Up/events/221388213/
 
   - Was soll drauf?
   - Wer macht es?
+  - sollte hip aussehen. z.b. https://smartcitizen.me/
 
 * Finanzierung / Verteilung
 
