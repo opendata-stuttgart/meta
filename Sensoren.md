@@ -1,4 +1,4 @@
-## PPD42NS
+# PPD42NS
 
 ![Image of PPD42NS](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/images/PPD42NS.jpg)
 
@@ -20,7 +20,7 @@
 - besser: https://github.com/NodeJournalism/DustDuino/blob/master/DustDuinoSerial.ino
 
 
-## Sharp GP2Y1010AU0F Optical Dust Sensor
+# Sharp GP2Y1010AU0F Optical Dust Sensor
 
 ![Image of GP2Y10](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/images/GP2Y10.jpg)
 
@@ -34,7 +34,7 @@
 - http://media.digikey.com/pdf/Data%20Sheets/Sharp%20PDFs/GP2Y1010AU.pdf
 - http://www.dfrobot.com/wiki/index.php/Sharp_GP2Y1010AU
 
-## dsm501a
+# dsm501a
 
 ![Image of DSM501A](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/images/DSM501A.jpg)
 
