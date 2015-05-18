@@ -6,6 +6,11 @@ http://www.meetup.com/OK-Lab-Stuttgart-Meet-Up/events/222290597/
 
 (19Uhr bis 21uhr!)
 
+* Ziel dieser Veranstaltung klar machen:
+
+  - mehr Wissen an mehr Leute
+  - mehr Leute sollen mehr Hardware basteln
+
 * aktueller Stand der Ansteuerung:
 
   - Arduino
