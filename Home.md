@@ -20,3 +20,6 @@ optional:
 * DHT22/SHTxx o.ä. (Temperatur & Luftfeuchtigkeit)
 * BMP180 (Luftdruck, Temperatur(?), Feuchtigkeit(?))
 * MQ135 (Gas-Messung (CO2, etc))
+
+Zum programmieren:
+* FTDI (3.3V Quelle aus USB)
