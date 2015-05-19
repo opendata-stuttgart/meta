@@ -22,4 +22,4 @@ optional:
 * MQ135 (Gas-Messung (CO2, etc))
 
 Zum programmieren:
-* FTDI (3.3V Quelle aus USB + Serial)
+* FTDI (3.3V/5V Quelle aus USB + Serial)
