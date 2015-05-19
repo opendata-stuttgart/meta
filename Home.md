@@ -14,6 +14,7 @@ Dieser soll via freifunk seine Messwerte zu einem zentralen Server schicken, um 
 * PPD42NS (Feinstaub messen)
 * Stromversorgung (MicroUSB/Handy-Netzteil oder Akku)
 * Spannungsregelung (3.3V & 5V)
+* Kleinkram (Käbelchen, Stecker, Lochrasterplatine, Breadboard, ...)
 
 optional:
 
