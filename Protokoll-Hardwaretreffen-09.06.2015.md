@@ -12,7 +12,7 @@ Alle stellen sich vor, manche haben schonmal was mit Hardware gemacht, manche ni
 
 mfandreas stellt vor:
 * Um den Feinstaub zu messen versuchen wir immernoch den PPD42NS zu verwenden, da es ja auch Studien gibt, die sagen, dass es zumindest grundsätzlich mal keine total kaputten Werte liefert.
-* Netzwerk/WLAN-Fähigkeit wird mit ESP8266 realisiert (am besten ESP8266-12 nehmen, da dort viele Pins rausgeführt werden)
+* Netzwerk/WLAN-Fähigkeit wird mit ESP8266 realisiert (am besten ESP8266-12E nehmen, da dort viele Pins rausgeführt werden)
 * Vorher gabs Versuche mit Arduino und RaspberryPi, welche allerdings für "Production-Use" nicht geeignet sind (zu teuer, zu viel Stromverbrauch, ...)
 * Es wird erklärt wie der PPD42NS funktioniert und warum es nicht ganz trivial ist die Ansteuerung/Auswertung mit dem ESP zu machen (für Arduino gabs ne fertige lib)
 
