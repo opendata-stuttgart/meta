@@ -1,5 +1,3 @@
-# Protokoll OK Lab Hardwaretreffen 9.6.2015
-
 19:14h: Es geht los.
 
 IRC-Channel: #opendata-stuttgart auf freenode
