@@ -20,7 +20,7 @@ http://www.stadtklima-stuttgart.de/index.php?luft_messdaten_download
 
 4.8. im shackspace um 19Uhr
 
-## Lotabend für die 25 ESPs von Fiona
+## Lötabend für die 25 ESPs von Fiona
 
 * Andreas hat weisse Plättchen
 * Arne hat Spannungsteiler
