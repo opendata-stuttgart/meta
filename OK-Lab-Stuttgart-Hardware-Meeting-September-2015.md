@@ -57,6 +57,10 @@ todos:
 
 ### REST-Clients
 
+done: 
+ - api last_update client mit push wenn kein update in den letzten 5 minuten ... - 
+   https://github.com/opendata-stuttgart/feinstaub-monitoring-client-python/
+
 todos:
 
  - api last_update client mit push/mail/twitter-notify/telegram/sms(twilio,??)... - https://github.com/opendata-stuttgart/feinstaub-monitoring-client-python/
