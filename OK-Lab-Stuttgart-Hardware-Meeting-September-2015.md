@@ -16,8 +16,8 @@ todos:
 
 todos:
 
- - http-code + ppd-code zusammenführen
- - dokumentieren
+ - http-code + ppd-code zusammenführen @David
+ - dokumentieren @David
 
 ### arduino prototyp
 
