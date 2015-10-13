@@ -38,6 +38,8 @@ Stromversorgung: A3 mit 1€-Netzteil; die anderen 4 mit einem Amazon-Basics-USB
 * 22.09.2015 18:00-20:00 UG Showroom Stadtbücherei, indoor
 * 01.10.2015 00:00-23:59 wohnzimmer mfa, indoor
 * 02.10.2015 00:00-23:59 wohnzimmer mfa, indoor
-## ab hier mit verdecktem mittleren Bereich:
+
+* *ab hier mit verdecktem mittleren Bereich:*
+
 * 03.10.2015 00:00-23:59 wohnzimmer mfa, indoor
 * 04.10.2015 00:00-23:59 wohnzimmer mfa, indoor
