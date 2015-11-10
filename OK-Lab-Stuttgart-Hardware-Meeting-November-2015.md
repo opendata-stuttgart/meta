@@ -7,7 +7,7 @@ Verwendete Software:
 * https://github.com/esp8266/Arduino
 * https://github.com/opendata-stuttgart/sensors-software/tree/master/esp8266-arduino/ppd42ns-wifi-dht
 
-## Einkaufliste
+## Einkaufsliste
 
 * http://www.aliexpress.com/item/SHINYEI-dust-sensor-PPD42NS-PPD4NS-PPD42NJ-dust-sensor-with-cable/32305336628.html
 * http://www.aliexpress.com/item/4M-4FLASH-NodeMcu-Lua-WIFI-Networking-development-board-Based-ESP8266/32448662166.html
@@ -107,7 +107,7 @@ todos:
 ### daten der stadt in die API pushen
 
 done:
- - script, dass excel-file liest
+ - script, dass excel-file liest: https://gist.github.com/michael-k/f98bcc2b8a7b4b397aa7
 
 todo: 
  - in die api pusht!
@@ -125,5 +125,8 @@ todos:
 in progress:
 
  - daten anzeigen von der api mit diesem androiden
- 
 
+## Sonstiges
+
+- Demo gegen Feinstaub am 21.11.2015
+  https://bineckartor.wordpress.com/2015/11/10/fahrverbote-retten-leben-autoflut-stoppen-jetzt-2/
