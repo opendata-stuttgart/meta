@@ -9,7 +9,7 @@ Verwendete Software:
 
 ## Einkaufsliste
 
-* [Feinstaub-Sensor)(http://www.aliexpress.com/item/SHINYEI-dust-sensor-PPD42NS-PPD4NS-PPD42NJ-dust-sensor-with-cable/32305336628.html)
+* [Feinstaub-Sensor](http://www.aliexpress.com/item/SHINYEI-dust-sensor-PPD42NS-PPD4NS-PPD42NJ-dust-sensor-with-cable/32305336628.html)
 * [Node MCU](http://www.aliexpress.com/item/4M-4FLASH-NodeMcu-Lua-WIFI-Networking-development-board-Based-ESP8266/32448662166.html)
 
 ## Todos (vom letzen Monat durchgearbeitet und angepasst)
