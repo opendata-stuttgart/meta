@@ -35,3 +35,8 @@ Github:
     * weniger ein technisches Problem
     * [MarWe](https://github.com/Marwe/) had contact to a colleague about it, please contact [added after meeting]
 * Messung von Stromverbrauch, Leitungswasser
+
+### Notizen nach dem Treffen
+
+* https://openwlanmap.org
+* ähnliche Mapping-Projekte?
