@@ -5,4 +5,4 @@ Bitte [Issues](https://github.com/opendata-stuttgart/meta/issues)  und [Wiki](ht
 
 IRC: #opendata-stuttgart (auf freenode)
 
-![Image of prototype on 28.04.2015](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/images/prototype_28-04-15.jpg)
+![Nov 2015 version](https://pbs.twimg.com/media/CTyB0EvWoAAgsIp.jpg:large)
