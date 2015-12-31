@@ -1,4 +1,4 @@
-# OK Lab Stuttgart Hardware Meeting Dezember 2015
+# Protokoll OK Lab Treffen Dezember 2015 Stadtbücherei
 
 ## Vorstellungsrunde
 
