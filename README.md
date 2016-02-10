@@ -6,3 +6,5 @@ Bitte [Issues](https://github.com/opendata-stuttgart/meta/issues)  und [Wiki](ht
 IRC: #opendata-stuttgart (auf freenode)
 
 ![Nov 2015 version](https://pbs.twimg.com/media/CTyB0EvWoAAgsIp.jpg:large)
+
+![Deployed sensor at facade](images/PPD_DHT_deployed_BirkachMitteStra.jpg)
