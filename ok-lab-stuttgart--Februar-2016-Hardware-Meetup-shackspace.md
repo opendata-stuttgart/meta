@@ -22,7 +22,7 @@ http://blog.madflex.de/particles-sensor-of-opendata-stuttgart-2015/
 - https://github.com/opendata-stuttgart/jupyter/blob/master/notebook/plot_one_sensor.ipynb
 - wie machen wir auswertungen pro sensor für den jeweiligen besitzer zugänglich?
 
-https://www.madavi.de/sensor/archiv_luftdaten_info/graph.php?showday
+https://www.madavi.de/sensor/archiv_luftdaten_info/graph.php?showday   
 Silvester-Peak: https://www.madavi.de/sensor/archiv_luftdaten_info/graph.php?showweek=&day=20160101
 
 ### monitoring client
