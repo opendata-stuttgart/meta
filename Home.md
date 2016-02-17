@@ -8,7 +8,7 @@ Dieser soll via freifunk seine Messwerte zu einem zentralen Server schicken, um 
 ->  https://github.com/opendata-stuttgart/meta/issues
 
 
-# Vorraussichtlich für einen Sensor benötigte Bauteile
+# Voraussichtlich für einen Sensor benötigte Bauteile
 
 * ESP8266 (WLAN, Prozessor)
 * PPD42NS (Feinstaub messen)
@@ -26,5 +26,16 @@ Zum programmieren:
 * FTDI (3.3V/5V Quelle aus USB + Serial)
 
 ## Liste mit Hardware die man braucht um loszulegen (mit AliExpress-Links):
+
+NodeMCU (ESP8266, CPU/WLAN), Preis ca. 3,00 Euro (Stand 17.02.2016):
+http://de.aliexpress.com/wholesale?site=deu&SortType=price_asc&shipCountry=de&SearchText=nodemcu+v3&CatId=400103
+
+PPD42NS (Staubsensor), Preis ca. 11 Euro (Stand 17.02.2016):
+http://de.aliexpress.com/wholesale?site=deu&SortType=price_asc&shipCountry=de&SearchText=ppd42ns&CatId=523
+
+DHT22/AM2302 (Temperatur/Luftfeuchte) , Preis ca. 2,30 Euro (Stand 17.02.2016):
+http://de.aliexpress.com/wholesale?site=deu&SortType=price_asc&shipCountry=de&SearchText=dht22&CatId=523
+  
+  
 
 http://blog.asw.io/esp8266/2015/06/06/howto-flash-esp8266-with-nodemcu-firmware/
