@@ -42,3 +42,11 @@ http://de.aliexpress.com/wholesale?site=deu&SortType=price_asc&shipCountry=de&Se
   
 
 http://blog.asw.io/esp8266/2015/06/06/howto-flash-esp8266-with-nodemcu-firmware/
+  
+
+## Pinout NodeMCU v2 und v3
+NodeMCU v2  
+![Pinout NodeMCU v2](https://www.madavi.de/sensor/esp8266-nodemcu-dev-kit-v2-pins.jpg)
+
+NodeMCU v3  
+![Pinout NodeMCU v3](https://www.madavi.de/sensor/esp8266-nodemcu-dev-kit-v3-pins.jpg)
