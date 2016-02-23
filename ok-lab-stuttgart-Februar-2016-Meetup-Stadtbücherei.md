@@ -3,7 +3,7 @@ viele neue Teilnehmer, Esslingen, Ludwigsburg
 
 ###hardware-meetup vor 2 Wochen - kurze Besprechung 
 
-### Vorschlag oder Idee - Dr. Horst Herdlauf
+### Vorschlag oder Idee - Dr. Horst Heydlauf
 Er als Arzt war schon bei einer Messung dabei, er verwendete ein präzises Messgerät hatte und schon mal gemessen hat (letztes Jahr) PM1, PM2,5, PM10 --> das war ein geeichtes Gerät, Ausleihdauer ca. 2 Wochen, Kosten ca. 1.600 EUR
 es gibt noch zu wenig medizinische Auswertungen, um eine relevante aussage zu treffen.
 
