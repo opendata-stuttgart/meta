@@ -5,46 +5,52 @@
 - archive.luftdaten.info tut jetzt
 
 ## Vorstellungsrunde
-Andreas: Softwareentwickler und Verursacher von den Feinstabdingern
-Thomas: Software löten und Geldspenden
-Ulrich: HiddenAgenda ist hidden
-maxim: Software .macher. hat schon sensoren angeschaut.
-mathieu: softwareentwickler. interessiert an vielen disziplinen durch das projekt.
-jan: lablead; pr-schlampe; sonst kann er nichts ;)
-stefan: software; privat auch anderes
-Stefan: will nen sensor.
-Reinhold: war in der bücherei. einfach mal anschauen
-Horst: war in der bücherei vor 2 wochen. hat selbst gemessen.
-frank: baut auch sensoren. misst. macht marketing.
-david: hilft überall aus. schon länger dabei
-rainer: 1992 das letzte mal gelötet. betreibt internetplatformen.
+
+- Andreas: Softwareentwickler und Verursacher von den Feinstabdingern
+- Thomas: Software löten und Geldspenden
+- Ulrich: HiddenAgenda ist hidden
+- maxim: Software .macher. hat schon sensoren angeschaut.
+- mathieu: softwareentwickler. interessiert an vielen disziplinen durch das projekt.
+- jan: lablead; pr-schlampe; sonst kann er nichts ;)
+- stefan: software; privat auch anderes
+- Stefan: will nen sensor.
+- Reinhold: war in der bücherei. einfach mal anschauen
+- Horst: war in der bücherei vor 2 wochen. hat selbst gemessen.
+- frank: baut auch sensoren. misst. macht marketing.
+- david: hilft überall aus. schon länger dabei
+- rainer: 1992 das letzte mal gelötet. betreibt internetplatformen.
 
 ## Feinstaub Messgeräte
 
 ## api.luftdaten.info nutzen!!
-weil: dusti.xyz - Registry Expiry Date: 2016-03-31T23:59:59.0Z 
-und wir wollen es nicht verlängern.
-In den nächsten 2-3 Wochen muss man alle Sensoren neu flashen.
-Die neue Firmware hat nun sogar eine Versionierung.
+
+- weil: dusti.xyz - Registry Expiry Date: 2016-03-31T23:59:59.0Z 
+- und wir wollen es nicht verlängern.
+- In den nächsten 2-3 Wochen muss man alle Sensoren neu flashen.
+- Die neue Firmware hat nun sogar eine Versionierung.
 
 ## howto für eine der komplexeren firmwares
 Es gibt aktuell 3 verschiedene Firmwares
 - mfandreas <= Sogar mit Anleitung- https://github.com/opendata-stuttgart/sensors-software/tree/master/esp8266-arduino/ppd42ns-wifi-dht
 - martins - https://github.com/opendata-stuttgart/sensors-software/tree/master/esp8266-arduino/multisens
 - rajkos - https://github.com/opendata-stuttgart/sensors-software/tree/master/esp8266-arduino/ppd42ns-wificonfig-ppd-sds-dht
+
 Da wir jetzt Geld gesammelt haben werden 300 Sensoren gebaut.
 Jetzt muss eine Firmware ausgewählt werden auf die man sich einigt und die muss supportet werden.
 
 
 ## werden die 300 sensoren mit DHT22 produziert?
+
 Kostet so 2 Euro und sollten investiert werden da schon bekannt ist das es korrelationen gibt.
 
 12€+3€+2€+...
 
-Luftdrucksensor für Luftdruckmessung:
+### Luftdrucksensor für Luftdruckmessung:
+
 Es gäbe ein Bosch BMP180
 
-Diskussionen um Lautstärkemessung:
+### Diskussionen um Lautstärkemessung:
+
 Wenn es was fertiges gäbe was schon ein ausgewertets Signal liefern würde dann könnte man es einbauen.
 
 Diskussionen um Speichererweiterung:
@@ -62,6 +68,7 @@ ja. jan kümmert sich.
 
 
 ## Horst - Messungen Firma Grimm - Messungen vorstellen
+
 Er hat die Daten und Unterlagen auch noch in elektronischer Form und wird es uns zu Verfügung stellen
 http://www.grimm-aerosol.com/products/environmental-dust-monitors/index.php
 
@@ -73,6 +80,7 @@ Modell 107E
 Wichtig sind immer lange Messversuche damit man die Auswirkungen auswerten kann.
 
 ## Was misst eigentlich der von uns eingesetzte Sensor?
+
 Wir können keine direkten Werte messen und vergleichen
 Die Messwerte streuen.
 Veränderungen im Messwert können allerdings dargestellt werden.
@@ -85,14 +93,17 @@ Gesundheitliche Fragen könnte beantworten:
 Prof. Dr. med. Norbert Krug, FRaunhofer Institut Toxikologie und experimentelle Medizin
 
 ## Es gibt einen alternativen Sensor
+
 Nova PM Sensor SDS011
 Ist noch etwas teurer. Einer wurde gekauft und wird bespielt.
 Der preis ist halt zwei einhalb mal so teuer aber die Werte sind gut.
 
 ## Datenblatt Sensor:
+
 http://www.seeedstudio.com/wiki/images/4/4c/Grove_-_Dust_sensor.pdf
 
 ## Uni Stuttgart Dr. Frick - Email wegen Kontrollmessung - 3-5 Sensoren um die Anlage (Offizielle Messung) auf der Insel Reichenau
+
 Er ist Denkmalschützer und misst die Feinstaubbelastung in einer Kirche auf der Insel Reichenau.
 Er spielt gerade mit mittelmäßig teuerer Hardware im Rahmen von 500Euro.
 Wir sehen ob unsere Geräte so gut sind wie seine 500Euro sensoren.
