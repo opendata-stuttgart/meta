@@ -14,3 +14,8 @@
 + https://riedelwerk.wordpress.com/2015/07/16/580-elektronik-basteln-feinstaubsensor/
 + https://riedelwerk.wordpress.com/2015/05/27/559-opendata-offene-daten/
 
+### Beitrag Madflex
++ http://blog.madflex.de/particles-sensor-of-opendata-stuttgart-2015/
+
+### Beitrag Asmaps
+http://blog.asw.io/esp8266/2015/06/06/howto-flash-esp8266-with-nodemcu-firmware/
