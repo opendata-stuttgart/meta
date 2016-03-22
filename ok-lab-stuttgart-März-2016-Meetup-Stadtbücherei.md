@@ -1,23 +1,22 @@
 ## Vorstellungsrunde
 
-Andreas - Software-dev ... macht das mit den feinstaubsensoren.
-Jan - lablead ...
-Thomas aus Tübingen - Studiert irgendwas mit Medien und will mal schauen
-Rajko -  irgendwie reingerutscht
-Nicola - Radiostück gemacht - soll beim WDR rein kommen
+- Andreas - Software-dev ... macht das mit den feinstaubsensoren.
+- Jan - lablead ...
+- Thomas aus Tübingen - Studiert irgendwas mit Medien und will mal schauen
+- Rajko -  irgendwie reingerutscht
+- Nicola - Radiostück gemacht - soll beim WDR rein kommen
 http://www.swr.de/swr2/programm/sendungen/wissen/wenn-buerger-feinstaub-selber-messen-dicke-luft-in-stuttgart/-/id=660374/did=17135824/nid=660374/18uvbqv/index.html
 http://www.swr.de/swr2/programm/sendungen/wissen/rueckschau-sendungen-nachhoeren-und-nachlesen/-/id=660374/did=13778306/nid=660374/1rwsxor/index.html
-
-André -  macht Frontend, macht Visualiserung
-Martin - macht schon eine Weile mit, hat sich mit MQTT beschäftigt
-David - sehr kurz
-Frank - macht die Werbung; Barcamp Nürnberg, Essen (Ruhr) und ist mit der Presse in Kontakt
-Ewald Thoma - aus Leonberg. Beschäftigt sich mit dem Feinstaubalarm.
+- André -  macht Frontend, macht Visualiserung
+- Martin - macht schon eine Weile mit, hat sich mit MQTT beschäftigt
+- David - sehr kurz
+- Frank - macht die Werbung; Barcamp Nürnberg, Essen (Ruhr) und ist mit der Presse in Kontakt
+- Ewald Thoma - aus Leonberg. Beschäftigt sich mit dem Feinstaubalarm.
 www.agvl-leonberg.de
-Tibor - Entwickler - macht auch bei der Feinstaubsache mit.
-Stefan - will lautstärke mit messen.
-Stefan - will nen Sensor. will freifunk. routerempfehlung: tp-link WR1043nd v3
-Wade - KIT forschung in einem BMBF projekt
+- Tibor - Entwickler - macht auch bei der Feinstaubsache mit.
+- Stefan - will lautstärke mit messen.
+- Stefan - will nen Sensor. will freifunk. routerempfehlung: tp-link WR1043nd v3
+- Wade - KIT forschung in einem BMBF projekt
 
 ## Feinstaubsensoren
 
