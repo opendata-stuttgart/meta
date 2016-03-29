@@ -80,6 +80,11 @@
 * [[2015-05-12|OK Lab Stuttgart Hardware Meeting Mai 2015]] Shackspace
 * [[2015-04-28|Agenda OK Lab Stuttgart Treffen April 2015]] Stadtbücherei
 
+## Anmerkungen
+
+* Don't use the following characters in your wiki page's titles: `\ / : * ? " < > |`
+    * Martin adds dashes to the list: `-`  
+
 Date generation via commandline, 2nd and 4th Tuesday of month:
 
     for y in {2015..2017}; do for m in {01..12};  do d=$(ncal -1 -M  -N -m $m $y|awk 'NR==3{print $3}'); if [ $d -lt 10 ] ; then d="0$d";fi; echo "* [[$y-$m-$d]] Shackspace";d=$(ncal -1 -M  -N -m $m $y|awk 'NR==3{print $5}'); echo "* [[$y-$m-$d]] Stadtbücherei";done;done|tac
