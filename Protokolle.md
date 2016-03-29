@@ -7,6 +7,7 @@
 
 ## Daten:
 
+<!--
 * [[2017-12-12]] Shackspace
 * [[2017-12-26]] Stadtbücherei
 * [[2017-11-14]] Shackspace
@@ -47,6 +48,7 @@
 * [[2016-06-28]] Stadtbücherei
 * [[2016-05-10]] Shackspace
 * [[2016-05-24]] Stadtbücherei
+-->
 * [[2016-04-12]] Shackspace
 * [[2016-04-26]] Stadtbücherei
 * [[2016-03-08]] Shackspace
