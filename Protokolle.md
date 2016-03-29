@@ -5,7 +5,7 @@
 * Stadtbücherei (OK Lab): jeden 4. Dienstag im Monat
 * Shackspace (Hardware): jeden 2. Dienstag im Monat
 
-Organisiert via [[https://www.letsmeet.click/c/ok-lab-stuttgart/|letsmeet.click]] welches statt [[http://www.meetup.com/de-DE/OK-Lab-Stuttgart-Meet-Up/|meetup]] zum Einsatz kommen sollte.
+Organisiert via [[letsmeet.click|https://www.letsmeet.click/c/ok-lab-stuttgart/]] welches statt [[meetup|http://www.meetup.com/de-DE/OK-Lab-Stuttgart-Meet-Up/]] zum Einsatz kommen sollte.
 
 ## Daten:
 
