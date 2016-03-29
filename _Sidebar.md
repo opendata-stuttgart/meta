@@ -65,3 +65,5 @@
 * [[2015-06-09|Protokoll Hardwaretreffen 09.06.2015]] Shackspace
 * [[2015-05-12|OK Lab Stuttgart Hardware Meeting   Mai 2015]] Shackspace
 * [[2015-04-28|Agenda OK Lab Stuttgart Treffen April 2015]] Stadtbücherei
+
+for more, see [[Protokolle]]
