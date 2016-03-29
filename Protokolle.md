@@ -69,10 +69,14 @@
 * [[2015-08-25|Protokoll OK Lab Treffen August 2015 Stadtbücherei]] Stadtbücherei
 * [[2015-08-11|Protokoll OK Lab Lua hacking August 2015 shackspace]] Shackspace
 * [[2015-07-28|Protokoll OK Lab Treffen Juli 2015 Stadtbücherei]] Stadtbücherei
-<!-- * [[2015-07-14|]] Shackspace -->
+<!-- 
+* [[2015-07-14|]] Shackspace
+-->
 * [[2015-06-23|Protokoll OK Lab Treffen Juni 2015 Stadtbücherei]] Stadtbücherei
 * [[2015-06-09|Protokoll Hardwaretreffen 09.06.2015]] Shackspace
-<!-- * [[2015-05-26|]] Stadtbücherei -->
+<!-- 
+* [[2015-05-26|]] Stadtbücherei 
+-->
 * [[2015-05-12|OK Lab Stuttgart Hardware Meeting Mai 2015]] Shackspace
 * [[2015-04-28|Agenda OK Lab Stuttgart Treffen April 2015]] Stadtbücherei
 
