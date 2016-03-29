@@ -51,10 +51,10 @@ Organisiert via [[letsmeet.click|https://www.letsmeet.click/c/ok-lab-stuttgart/]
 * [[2016-06-14]] Shackspace
 * [[2016-05-24]] Stadtbücherei
 * [[2016-05-10]] Shackspace
-* [[2016-04-26]] Stadtbücherei
-* [[2016-04-05]] Shackspace
 -->
 
+* [[2016-04-26]] Stadtbücherei
+* [[2016-04-05]] Shackspace
 * [[2016-03-22|ok lab stuttgart März 2016 Meetup Stadtbücherei]] Stadtbücherei 
 * [[2016-03-08|ok-lab-stuttgart---März-2016-Hardware-Meetup-shackspace]] Shackspace
 * [[2016-02-23|ok lab stuttgart Februar 2016 Meetup Stadtbücherei]] Stadtbücherei
