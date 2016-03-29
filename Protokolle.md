@@ -7,6 +7,7 @@
 
 ## Daten:
 
+
 <!--
 * [[2017-12-26]] Stadtbücherei
 * [[2017-12-12]] Shackspace
@@ -52,29 +53,29 @@
 * [[2016-04-12]] Shackspace
 -->
 * [[2016-03-22|ok lab stuttgart März 2016 Meetup Stadtbücherei]] Stadtbücherei 
-* [[2016-03-08]] Shackspace
-* [[2016-02-23]] Stadtbücherei
-* [[2016-02-09]] Shackspace
-* [[2016-01-26]] Stadtbücherei
-* [[2016-01-12]] Shackspace
-* [[2015-12-22]] Stadtbücherei
-* [[2015-12-08]] Shackspace
-* [[2015-11-24]] Stadtbücherei
-* [[2015-11-10]] Shackspace
-* [[2015-10-27]] Stadtbücherei
-* [[2015-10-13]] Shackspace
-* [[2015-09-22]] Stadtbücherei
-* [[2015-09-08]] Shackspace
-* [[2015-08-25]] Stadtbücherei
-* [[2015-08-11]] Shackspace
-* [[2015-07-28]] Stadtbücherei
-* [[2015-07-14]] Shackspace
-* [[2015-06-23]] Stadtbücherei
-* [[2015-06-09]] Shackspace
-* [[2015-05-26]] Stadtbücherei
-* [[2015-05-12]] Shackspace
-* [[2015-04-28]] Stadtbücherei
-* [[2015-04-14]] Shackspace
+* [[2016-03-08|ok lab stuttgart - März Hardware Meetup shackspace]] Shackspace
+* [[2016-02-23|ok lab stuttgart Februar 2016 Meetup Stadtbücherei]] Stadtbücherei
+* [[2016-02-09|ok lab stuttgart Februar 2016 Hardware Meetup shackspace]] Shackspace
+* [[2016-01-26|Protokoll OK Lab Treffen Januar 2016 Stadtbücherei]] Stadtbücherei
+* [[2016-01-12|ok lab stuttgart Januar 2016 Hardware Meetup shackspace]] Shackspace
+* [[2015-12-22|Protokoll OK Lab Treffen Dezember 2015 Stadtbücherei]] Stadtbücherei
+* [[2015-12-08|]] Shackspace
+* [[2015-11-24|Protokoll OK Lab Treffen November 2015 Stadtbücherei]] Stadtbücherei
+* [[2015-11-10|OK Lab Stuttgart Hardware Meeting November 2015]] Shackspace
+* [[2015-10-27|Protokoll OK Lab Treffen Oktober 2015 Stadtbücherei]] Stadtbücherei
+* [[2015-10-13|OK Lab Stuttgart Hardware Meeting Oktober 2015]] Shackspace
+* [[2015-09-22|ok lab stuttgart September 2015 Meetup Stadtbücherei]] Stadtbücherei
+* [[2015-09-08|OK Lab Stuttgart Hardware Meeting September 2015]] Shackspace
+* [[2015-08-25|Protokoll OK Lab Treffen August 2015 Stadtbücherei]] Stadtbücherei
+* [[2015-08-11|Protokoll OK Lab Lua hacking August 2015 shackspace]] Shackspace
+* [[2015-07-28|Protokoll OK Lab Treffen Juli 2015 Stadtbücherei]] Stadtbücherei
+<!-- * [[2015-07-14|]] Shackspace -->
+* [[2015-06-23|Protokoll OK Lab Treffen Juni 2015 Stadtbücherei]] Stadtbücherei
+* [[2015-06-09|Protokoll Hardwaretreffen 09.06.2015]] Shackspace
+<!-- * [[2015-05-26|]] Stadtbücherei -->
+* [[2015-05-12|OK Lab Stuttgart Hardware Meeting Mai 2015]] Shackspace
+* [[2015-04-28|Agenda OK Lab Stuttgart Treffen April 2015]] Stadtbücherei
+
 Date generation via commandline, 2nd and 4th Tuesday of month:
 
     for y in {2015..2017}; do for m in {01..12};  do d=$(ncal -1 -M  -N -m $m $y|awk 'NR==3{print $3}'); if [ $d -lt 10 ] ; then d="0$d";fi; echo "* [[$y-$m-$d]] Shackspace";d=$(ncal -1 -M  -N -m $m $y|awk 'NR==3{print $5}'); echo "* [[$y-$m-$d]] Stadtbücherei";done;done|tac
