@@ -53,7 +53,7 @@
 * [[2016-04-12]] Shackspace
 -->
 * [[2016-03-22|ok lab stuttgart März 2016 Meetup Stadtbücherei]] Stadtbücherei 
-* [[2016-03-08|ok lab stuttgart - März Hardware Meetup shackspace]] Shackspace
+* [[2016-03-08|ok-lab-stuttgart---März-2016-Hardware-Meetup-shackspace]] Shackspace
 * [[2016-02-23|ok lab stuttgart Februar 2016 Meetup Stadtbücherei]] Stadtbücherei
 * [[2016-02-09|ok lab stuttgart Februar 2016 Hardware Meetup shackspace]] Shackspace
 * [[2016-01-26|Protokoll OK Lab Treffen Januar 2016 Stadtbücherei]] Stadtbücherei
