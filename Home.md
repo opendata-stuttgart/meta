@@ -7,7 +7,6 @@ Dieser soll via freifunk seine Messwerte zu einem zentralen Server schicken, um 
 
 ->  https://github.com/opendata-stuttgart/meta/issues
 
-
 # Voraussichtlich für einen Sensor benötigte Bauteile
 
 * ESP8266 (WLAN, Prozessor)
@@ -44,9 +43,19 @@ http://de.aliexpress.com/wholesale?site=deu&SortType=price_asc&shipCountry=de&Se
 http://blog.asw.io/esp8266/2015/06/06/howto-flash-esp8266-with-nodemcu-firmware/
   
 
+## Datenblätter, Spezifikationen
+
+[AM2302] (https://github.com/opendata-stuttgart/meta/blob/master/files/AM2302.pdf) (entspricht DHT22)  
+[DHT22] (https://github.com/opendata-stuttgart/meta/blob/master/files/DHT22.pdf)  
+[PPD42NS] (https://github.com/opendata-stuttgart/meta/blob/master/files/PPD42NS.pdf)  
+[SDS011] (https://github.com/opendata-stuttgart/meta/blob/master/files/SDS011-V1.3.pdf)  
+  
+  
 ## Pinout NodeMCU v2 und v3
+  
 NodeMCU v2  
 ![Pinout NodeMCU v2](https://www.madavi.de/sensor/esp8266-nodemcu-dev-kit-v2-pins.jpg)
-
+  
+  
 NodeMCU v3  
 ![Pinout NodeMCU v3](https://www.madavi.de/sensor/esp8266-nodemcu-dev-kit-v3-pins.jpg)
