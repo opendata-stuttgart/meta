@@ -1,3 +1,5 @@
+[Ziel] (#Ziel) - [Status] (#Status) - [benötigte Bauteile] (#voraussichtlich-f%C3%BCr-einen-sensor-ben%C3%B6tigte-bauteile) - 
+
 # ZIEL
 
 Das Ziel ist es einen massentauglichen Feinstaubsensor zu bauen.
