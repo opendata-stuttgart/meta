@@ -1,3 +1,7 @@
+# Seiten
+
+* [Wiki main page] (/opendata-stuttgart/meta/wiki)
+
 # Protokolle
 
 <!--
