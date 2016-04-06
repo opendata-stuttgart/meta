@@ -3,4 +3,5 @@
 [PPD42NS] (https://github.com/opendata-stuttgart/meta/blob/master/files/PPD42NS.pdf)  
 [SDS011] (https://github.com/opendata-stuttgart/meta/blob/master/files/SDS011-V1.3.pdf)  
   
-  
+## weitere Infos zu den Sensoren  
+[Analyse Aufbau PPD42] (/opendata-stuttgart/meta/blob/master/files/ShinyeiPPD42NS_Deconstruction_TracyAllen.pdf)  
