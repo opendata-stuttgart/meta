@@ -1,3 +1,5 @@
+Liste mit Hardware die man braucht um loszulegen (mit AliExpress-Links)  
+  
 NodeMCU (ESP8266, CPU/WLAN)  
 Preis ca. 3,00 Euro (Stand 06.04.2016):  
 ~~Preis ca. 3,00 Euro (Stand 17.02.2016):~~  
