@@ -1,5 +1,5 @@
-[Ziel] (#Ziel) - [Status] (#Status) - [benötigte Bauteile] (#voraussichtlich-f%C3%BCr-einen-sensor-ben%C3%B6tigte-bauteile) - 
-
+[Ziel] (#Ziel) - [Status] (#Status) - [benötigte Bauteile] (#voraussichtlich-f%C3%BCr-einen-sensor-ben%C3%B6tigte-bauteile) - [Liste mit Hardware u. AliExpress-Links] (#liste-mit-hardware-die-man-braucht-um-loszulegen-mit-aliexpress-links) - [Datenblätter, Spezifikationen] (#datenbl%C3%A4tter-spezifikationen) - [NodeMCU Pinouts] (#pinout-nodemcu-v2-und-v3)  
+  
 # ZIEL
 
 Das Ziel ist es einen massentauglichen Feinstaubsensor zu bauen.
