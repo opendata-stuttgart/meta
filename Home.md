@@ -1,4 +1,4 @@
-[Ziel] (#Ziel) - [Status] (#Status) - [benötigte Bauteile] (#voraussichtlich-f%C3%BCr-einen-sensor-ben%C3%B6tigte-bauteile) - [Liste mit Hardware u. AliExpress-Links] (#liste-mit-hardware-die-man-braucht-um-loszulegen-mit-aliexpress-links) - [Datenblätter, Spezifikationen] (#datenbl%C3%A4tter-spezifikationen) - [NodeMCU Pinouts] (#pinout-nodemcu-v2-und-v3)  
+[Ziel] (#Ziel) - [Status] (#Status) - [benötigte Bauteile] (#voraussichtlich-f%C3%BCr-einen-sensor-ben%C3%B6tigte-bauteile) - [Liste mit Hardware u. AliExpress-Links] (#liste-mit-hardware-die-man-braucht-um-loszulegen-mit-aliexpress-links) - [Datenblätter, Spezifikationen] (https://github.com/opendata-stuttgart/meta/wiki/Datenbl%C3%A4tter-Spezifikationen) - [NodeMCU Pinouts] (#pinout-nodemcu-v2-und-v3)  
   
 # ZIEL
 
@@ -44,15 +44,8 @@ http://de.aliexpress.com/wholesale?site=deu&SortType=price_asc&shipCountry=de&Se
 
 http://blog.asw.io/esp8266/2015/06/06/howto-flash-esp8266-with-nodemcu-firmware/
   
-
-## Datenblätter, Spezifikationen
-
-[AM2302] (https://github.com/opendata-stuttgart/meta/blob/master/files/AM2302.pdf) (entspricht DHT22)  
-[DHT22] (https://github.com/opendata-stuttgart/meta/blob/master/files/DHT22.pdf)  
-[PPD42NS] (https://github.com/opendata-stuttgart/meta/blob/master/files/PPD42NS.pdf)  
-[SDS011] (https://github.com/opendata-stuttgart/meta/blob/master/files/SDS011-V1.3.pdf)  
   
-  
+
 ## Pinout NodeMCU v2 und v3
   
 NodeMCU v2  
