@@ -24,3 +24,19 @@ Nach dem Klick auf "Config Wifi" kann es einen Moment dauern (es wird nach verf�
 
 Dort können die Zugangsdaten für das WLAN eingetragen werden. Die restlichen Felder konfigurieren die eingebauten Sensoren und sollten nicht ausgefüllt werden müssen. Leere Felder behalten die vorkonfigurierten Standardwerte. Nach dem Speichern der Konfiguration verbindet sich der Sensor dann mit dem eingetragenen WLAN.
 
+### Löschen der Konfiguration  
+  
+Sollte die Konfiguration doch einmal zurückgesetzt werden müssen, folgende Schritte durchführen:  
+  
+I. Installation [ESP8266 filesystem uploader] (https://github.com/esp8266/arduino-esp8266fs-plugin)
+
+* Download des Plugins von [https://github.com/esp8266/arduino-esp8266fs-plugin/releases/tag/0.2.0]
+* Entpacken nach <home_dir>/Arduino/tools/ESP8266FS/tool/esp8266fs.jar), die Verzeichnisse unter Arduino müssen evtl. noch angelegt werden.
+* Neustart Arduino IDE
+* Unter dem Menüpunkt "Werkzeuge" sollte es jetzt einen Eintrag "ESP8266 Sketch Data upload" geben
+  
+  
+II. Konfiguration löschen  
+* Öffnen Sie den Sensor-Sketch, im entsprechenden Verzeichnis sollte sich kein Ordner data befinden, bzw. sollte der Ordner leer sein
+* Unter "Werkzeuge" "ESP8266 Sketch Data upload" auswählen, die Meldung, daß keine Daten gefunden wurden, mit Ja/Yes bestätigen
+* Die IDE sollte jetzt Daten auf den ESP8266 schreiben. Sollte eine Fehlermeldung erscheinen, den Vorgang wiederholen, evtl nochmals mit gedrücktem Flash-Button
