@@ -1,7 +1,7 @@
 # meta
 Opendata Stuttgart organisiert und reguliert.
 
-Bitte [Issues](https://github.com/opendata-stuttgart/meta/issues)  und [Wiki](https://github.com/opendata-stuttgart/meta/wiki) benutzen.
+Bitte [Issues](https://github.com/opendata-stuttgart/meta/issues) (für Hinweise zu Fehlern und Feature-Wünschen) und [Wiki](https://github.com/opendata-stuttgart/meta/wiki) (Protokolle der Mettings, Dokumentation, HowTos ...) benutzen.
 
 IRC: #opendata-stuttgart (auf freenode)
 
