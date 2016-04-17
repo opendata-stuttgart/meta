@@ -9,13 +9,14 @@ Voreingestellt ist:
 
 ### Per WifiConfig
 
-Wenn der Feinstaub-Sensor keine Verbindung zum vorkonfigurierten WLAN aufbauen kann, wird der Sensor selbst zum Hotspot. Der Name dieses Hotspots ist "Feinstaubsensor-<chipid>". Mit diesem Hotspot kann sich jedes WLAN-fähige Gerät (Tablet, Handy,...) verbinden. Unter Android sieht dies z.B. so aus:
-
-![Android WLAN über Taskbar](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/images/wificonfig/WLAN%20Auswahl%201.png)
+Wenn der Feinstaub-Sensor keine Verbindung zum vorkonfigurierten WLAN aufbauen kann, wird der Sensor selbst zum Hotspot. Der Name dieses Hotspots ist "Feinstaubsensor-<chipid>". Mit diesem Hotspot kann sich jedes WLAN-fähige Gerät (Tablet, Handy,...) verbinden. Unter Android sieht dies z.B. so aus:  
+Über den Status Bar:  
+![Android WLAN über Taskbar](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/images/wificonfig/WLAN%20Auswahl%201.png)  
+  
+Über Einstellungen -> WLAN  
 ![Android über Einstellungen->WLAN](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/images/wificonfig/WLAN%20Auswahl%202.png)  
-
-
-Nach dem Verbinden mit dem WLAN kann die Konfigurationsseite im Browser geöffnet werden über die Adresse http://192.168.4.1/. Es sollte die folgende Seite angezeigt werden:  
+  
+Nach dem Verbinden mit dem WLAN kann die Konfigurationsseite im Browser über die Adresse http://192.168.4.1/ geöffnet werden. Es sollte die folgende Seite angezeigt werden:  
 ![Startseite WifiKonfig](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/images/wificonfig/Startbild%20WLAN%20Config.png)  
 
 Nach dem Klick auf "Config Wifi" kann es einen Moment dauern (es wird nach verfügbaren Netzwerken gesucht) und es öffnet sich folgende Seite:  
