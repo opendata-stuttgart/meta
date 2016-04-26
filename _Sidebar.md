@@ -46,12 +46,12 @@
 * [[2016-08-09|]] Shackspace
 * [[2016-07-26|]] Stadtbücherei
 * [[2016-07-12|]] Shackspace
+-->
+
 * [[2016-06-28|]] Stadtbücherei
 * [[2016-06-14|]] Shackspace
 * [[2016-05-24|]] Stadtbücherei
 * [[2016-05-10|]] Shackspace
--->
-
 * [[2016-04-26|]] Stadtbücherei
 * [[2016-04-12|]] Shackspace 
 * [[2016-04-05|]] Shackspace
