@@ -1,3 +1,6 @@
+Ergänzung zum Pinout:
+Bei den NodeMCUs v3 steht VIN wirklich als Eingang. Dort kann die NodeMCU mit 5V versorgt werden. Es ist nicht mehr möglich, dort die Spannung des USB-Anschlusses abzufassen, wie dies noch bei Version 2 möglich war. Für unser Projekt ist daher die 5V-Leitung des Sensors (PPD42NS oder SDS011) an VU (direkt neben dem aufgelöteten ESP8266) anzuschließen.  
+
 # NodeMCU v2  
 ![Pinout NodeMCU v2](/opendata-stuttgart/meta/raw/master/files/esp8266-nodemcu-dev-kit-v2-pins.jpg)  
   
