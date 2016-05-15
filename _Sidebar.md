@@ -5,6 +5,7 @@
 * [Bezugsquellen Einzelteile] (/opendata-stuttgart/meta/wiki/Bezugsquellen-Einzelteile)  
 * [Datenblätter, Spezifikationen] (/opendata-stuttgart/meta/wiki/Datenbl%C3%A4tter-Spezifikationen)
 * [Studien] (/opendata-stuttgart/meta/wiki/Studien)
+* [Firmware einspielen] (/opendata-stuttgart/meta/wiki/Firmware-einspielen)
 * [Sensor-Konfiguration] (/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren)
   
 # Protokolle
