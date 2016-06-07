@@ -1,12 +1,12 @@
 # Seiten
 
 * [Wiki home] (/opendata-stuttgart/meta/wiki)
-* [NodeMCU Pinouts v2, v3] (/opendata-stuttgart/meta/wiki/Pinouts-NodeMCU-v2,-v3)
 * [Bezugsquellen Einzelteile] (/opendata-stuttgart/meta/wiki/Bezugsquellen-Einzelteile)  
-* [Datenblätter, Spezifikationen] (/opendata-stuttgart/meta/wiki/Datenbl%C3%A4tter-Spezifikationen)
-* [Studien] (/opendata-stuttgart/meta/wiki/Studien)
 * [Firmware einspielen] (/opendata-stuttgart/meta/wiki/Firmware-einspielen)
 * [Sensor-Konfiguration] (/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren)
+* [NodeMCU Pinouts v2, v3] (/opendata-stuttgart/meta/wiki/Pinouts-NodeMCU-v2,-v3)
+* [Datenblätter, Spezifikationen] (/opendata-stuttgart/meta/wiki/Datenbl%C3%A4tter-Spezifikationen)
+* [Studien] (/opendata-stuttgart/meta/wiki/Studien)
   
 # Protokolle
 
