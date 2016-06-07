@@ -2,7 +2,7 @@
 
 * [Wiki home] (/opendata-stuttgart/meta/wiki)
 * [Bezugsquellen Einzelteile] (/opendata-stuttgart/meta/wiki/Bezugsquellen-Einzelteile)  
-* [Zusammenbau der Komponenten] ()
+* [Zusammenbau der Komponenten] (/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten)  
 * [Firmware einspielen] (/opendata-stuttgart/meta/wiki/Firmware-einspielen)
 * [Sensor-Konfiguration] (/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren)
 * [NodeMCU Pinouts v2, v3] (/opendata-stuttgart/meta/wiki/Pinouts-NodeMCU-v2,-v3)
