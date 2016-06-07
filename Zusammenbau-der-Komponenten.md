@@ -38,3 +38,14 @@ Die NodeMCU wird in einem der senkrechten Teile der Röhre montiert. Die beiden 
 Nach der Montage von NodeMCU und PPD42NS sollten die Bohrungen und Kabelbinder mit Gaffa-Tape/Gewebeklebeband möglichst wasserdicht verklebt werden.
   
 Wird auch der Temperatursensor verbaut, kann dieser einfach in der Röhre nach oben gelegt werden. Die Dupont-Kabel sind meist stabil genug, den Sensor oben zu halten.  
+  
+  
+  
+### Anschluß von I2C-Hardware (z.B. Luftdruck-Sensor BMP180, Display ...)
+Die Firmware kann I2C-Hardware auslesen, welche wie folgt angeschlossen ist:  
+Vcc => 3V3  
+Gnd => GND  
+SDA => D3  
+SCL => D4  
+
+Die I2C-Hardware muss für 3.3V ausgelegt sein. Zur Zeit ist in der Firmware der Anschluß eines Luftdrucksensors BMP180 und von Displays mit SSD1306-Treiber vorgesehen. Weitere Sensoren können aber noch eingebunden werden.  
