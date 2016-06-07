@@ -22,7 +22,7 @@ SDS011 Pin 1 -> Pin D1 / GPIO5
 SDS011 Pin 2 -> Pin D2 / GPIO4  
 SDS011 Pin 3 -> GND  
 SDS011 Pin 4 -> unused  
-SDS011 Pin 5 -> Vin  
+SDS011 Pin 5 -> VU (NodeMCU v3) / VIN (NodeMCU v2)  
 SDS011 Pin 6 -> unused  
 SDS011 Pin 7 -> unused  
 
