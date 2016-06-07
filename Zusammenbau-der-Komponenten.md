@@ -1,6 +1,8 @@
   
 Für die Montage der einzelnen Komponenten empfehlen sich Dupont-Kabel mit ca. 20 cm Länge (siehe Bestellliste).
   
+![Schaltplan](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/files/nodemcu-v3-schaltplan.jpg)
+
 ### Anschluß des PPD42NS  
 Pins sind von RECHTS nach LINKS nummeriert  
 PPD42NS Pin 1 => GND  
