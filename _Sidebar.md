@@ -1,6 +1,6 @@
 # Seiten
 
-* [Wiki home] (/opendata-stuttgart/meta/wiki)
+* ## [Wiki home] (/opendata-stuttgart/meta/wiki)
 * [Bezugsquellen Einzelteile] (/opendata-stuttgart/meta/wiki/Bezugsquellen-Einzelteile)  
 * [Zusammenbau der Komponenten] (/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten)  
 * [Firmware einspielen] (/opendata-stuttgart/meta/wiki/Firmware-einspielen)
