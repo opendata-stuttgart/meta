@@ -1,5 +1,4 @@
-## Zusammenbau der Komponenten  
-
+  
 Für die Montage der einzelnen Komponenten empfehlen sich Dupont-Kabel mit ca. 20 cm Länge (siehe Bestellliste).
   
 Anschluß des PPD42NS  
