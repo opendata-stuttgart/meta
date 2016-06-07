@@ -18,7 +18,7 @@ DHT22 Pin 2 -> Pin D7 (GPIO13)
 DHT22 Pin 3 -> unused  
 DHT22 Pin 4 -> Pin GND  
   
-![Schaltplan SDS011 + DHT22](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/files/nodemcu-v3-schaltplan.jpg)  
+![Schaltplan SDS011 + DHT22](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/files/nodemcu-v3-schaltplan-sds011.jpg)  
   
 ### Anschluß SDS011  
 Pins sind von RECHTS nach LINKS nummeriert, beim Verbinden darauf achten, das die Kabel wirklich auf den Pins stecken, da die meisten Dupont-Kabel auch "neben" die Pins passen  
