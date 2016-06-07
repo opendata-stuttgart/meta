@@ -1,7 +1,7 @@
   
 Für die Montage der einzelnen Komponenten empfehlen sich Dupont-Kabel mit ca. 20 cm Länge (siehe Bestellliste).
   
-![Schaltplan](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/files/nodemcu-v3-schaltplan.jpg)
+![Schaltplan PPD42NS + DHT22](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/files/nodemcu-v3-schaltplan.jpg)  
 
 ### Anschluß des PPD42NS  
 Pins sind von RECHTS nach LINKS nummeriert  
@@ -17,7 +17,9 @@ DHT22 Pin 1 -> Pin 3V3 (3.3V)
 DHT22 Pin 2 -> Pin D7 (GPIO13)  
 DHT22 Pin 3 -> unused  
 DHT22 Pin 4 -> Pin GND  
-
+  
+![Schaltplan SDS011 + DHT22](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/files/nodemcu-v3-schaltplan.jpg)  
+  
 ### Anschluß SDS011  
 Pins sind von RECHTS nach LINKS nummeriert, beim Verbinden darauf achten, das die Kabel wirklich auf den Pins stecken, da die meisten Dupont-Kabel auch "neben" die Pins passen  
 SDS011 Pin 1 -> Pin D1 / GPIO5  
