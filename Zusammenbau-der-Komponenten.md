@@ -29,4 +29,8 @@ SDS011 Pin 7 -> unused
 ### Montage in der Röhre  
 Bei der Montage in der Röhre ist darauf zu achten, das der PPD42NS im Betrieb möglichst senkrecht steht. Nur so ist ein maximaler Luftstrom durch den PPD42NS gegeben. Für unsere bisher montierten Geräte wurde dieser dafür im waagerechten Teil mit einem schmalen (3,2mm) Kabelbinder durch zwei Bohrungen befestigt. Die beiden Bohrungen liegen dabei oben mittig ca. 2 cm auseinander.  
 
-Die NodeMCU wird in einem der senkrechten Teile der Röhre montiert. Die beiden dafür benötigten Bohrungen liegen auf der (gedachten/geplanten) Rückseite, der Abstand entspricht dem Abstand der Befestigungslöcher der NodeMCU. VOn unten sollten die beiden Bohrungen ca. 2-3 cm mehr als die Länge der NodeMCU entfernt sein. So ist die NodeMCU zum Anstecken des USB-Kabels/Netzteils noch gut erreichbar.  
+Die NodeMCU wird in einem der senkrechten Teile der Röhre montiert. Die beiden dafür benötigten Bohrungen liegen auf der (gedachten/geplanten) Rückseite, der Abstand entspricht dem Abstand der Befestigungslöcher der NodeMCU. Von unten sollten die beiden Bohrungen ca. 2-3 cm mehr als die Länge der NodeMCU entfernt sein. So ist die NodeMCU zum Anstecken des USB-Kabels/Netzteils noch gut erreichbar. Die NodeMCU sollte dann mit den Pins zur Röhrenmitte via Kabelbinder befestigt werden.  
+  
+Nach der Montage von NodeMCU und PPD42NS sollten die Bohrungen und Kabelbinder mit Gaffa-Tape/Gewebeklebeband möglichst wasserdicht verklebt werden.
+  
+Wird auch der Temperatursensor verbaut, kann dieser einfach in der Röhre nach oben gelegt werden. Die Dupont-Kabel sind meist stabil genug, den Sensor oben zu halten.  
