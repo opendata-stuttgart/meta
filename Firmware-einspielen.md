@@ -1,3 +1,5 @@
+vorherige Seite: [Zusammenbau der Komponenten](/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten) - nächste Seite: [Sensor-Konfiguration](/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren)  
+  
 Variante 1:
 
 * Arduino IDE unter <https://www.arduino.cc/en/Main/Software> downloaden und installieren.  
