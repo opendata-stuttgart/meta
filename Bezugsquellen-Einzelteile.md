@@ -1,4 +1,6 @@
-Liste mit Hardware die man braucht um loszulegen (mit AliExpress-Links)  
+vorherige Seite: [Home](/opendata-stuttgart/meta/wiki) - nächste Seite: [Zusammenbau der Komponenten](/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten)
+  
+###Liste mit Hardware die man braucht um loszulegen (mit AliExpress-Links)  
 
 **Netzteil USB**, 5V (nicht das billigste nehmen)
 
