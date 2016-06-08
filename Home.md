@@ -1,4 +1,4 @@
-nächste Seite: [Bezugsquellen Einzelteile] </opendata-stuttgart/meta/wiki/Bezugsquellen-Einzelteile>
+nächste Seite: [Bezugsquellen Einzelteile](/opendata-stuttgart/meta/wiki/Bezugsquellen-Einzelteile)
 
 # ZIEL
 
