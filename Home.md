@@ -1,3 +1,5 @@
+nächste Seite: [Bezugsquellen Einzelteile] </opendata-stuttgart/meta/wiki/Bezugsquellen-Einzelteile>
+
 # ZIEL
 
 Das Ziel ist es einen massentauglichen Feinstaubsensor zu bauen.
