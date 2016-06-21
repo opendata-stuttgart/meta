@@ -3,7 +3,8 @@ nächste Seite: [Bezugsquellen Einzelteile](/opendata-stuttgart/meta/wiki/Bezugs
 # ZIEL
 
 Das Ziel ist es einen massentauglichen Feinstaubsensor zu bauen.
-Dieser soll via freifunk seine Messwerte zu einem zentralen Server schicken, um eine bessere Datenabdeckung der Feinstaubbelastung unserer Umgebung zu erhalten
+Dieser soll via freifunk seine Messwerte zu einem zentralen Server schicken, um eine bessere Datenabdeckung der Feinstaubbelastung unserer Umgebung zu erhalten. 
+Homepage: http://luftdaten.info/
 
 # Status
 
@@ -25,7 +26,6 @@ optional:
 
 Zum programmieren:
 * FTDI (3.3V/5V Quelle aus USB + Serial)
-  
 
 http://blog.asw.io/esp8266/2015/06/06/howto-flash-esp8266-with-nodemcu-firmware/
   
