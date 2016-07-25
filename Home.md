@@ -12,8 +12,8 @@ Homepage: http://luftdaten.info/
 
 # Voraussichtlich für einen Sensor benötigte Bauteile
 
-* ESP8266 (WLAN, Prozessor)
-~~* PPD42NS (Feinstaub messen)~~
+* ESP8266 (WLAN, Prozessor)  
+~~* PPD42NS (Feinstaub messen)~~  
 * SDS011 (Feinstaub messen), ersetzt PPD42NS da bessere Ergebnisse  
 * Stromversorgung (MicroUSB/Handy-Netzteil oder Akku)
 * Spannungsregelung (3.3V & 5V)
