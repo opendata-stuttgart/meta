@@ -33,9 +33,12 @@ PPD42NS Pin 5 => unused
   
 ### Montage in der Röhre  
 
-Variante SDS011:  
-
+Einbau NodeMCU:  
+  
 Die NodeMCU wird in einem der senkrechten Teile der Röhre montiert. Die beiden dafür benötigten Bohrungen liegen auf der (gedachten/geplanten) Rückseite, der Abstand entspricht dem Abstand der Befestigungslöcher der NodeMCU. Von unten sollten die beiden Bohrungen ca. 2-3 cm mehr als die Länge der NodeMCU entfernt sein. So ist die NodeMCU zum Anstecken des USB-Kabels/Netzteils noch gut erreichbar. Die NodeMCU sollte dann mit den Pins zur Röhrenmitte via Kabelbinder befestigt werden.  
+  
+  
+Variante SDS011:  
   
   
 Variante PPD42NS:  
