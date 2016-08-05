@@ -2,23 +2,6 @@ vorherige Seite: [Bezugsquellen Einzelteile](/opendata-stuttgart/meta/wiki/Bezug
   
 Für die Montage der einzelnen Komponenten empfehlen sich Dupont-Kabel mit ca. 20 cm Länge (siehe Bestellliste).
   
-![Schaltplan PPD42NS + DHT22](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/files/nodemcu-v3-schaltplan.jpg)  
-
-### Anschluß des PPD42NS  
-Pins sind von RECHTS nach LINKS nummeriert  
-PPD42NS Pin 1 => GND  
-PPD42NS Pin 2 => Pin D5 /GPIO14  
-PPD42NS Pin 3 => VU (NodeMCU v3) / VIN (NodeMCU v2)  
-PPD42NS Pin 4 => Pin D6 / GPIO12  
-PPD42NS Pin 5 => unused  
-
-### Anschluß des DHT22  
-Pins sind von LINKS nach RECHTS nummeriert, Vorderseite ist das "Gitter"  
-DHT22 Pin 1 -> Pin 3V3 (3.3V)  
-DHT22 Pin 2 -> Pin D7 (GPIO13)  
-DHT22 Pin 3 -> unused  
-DHT22 Pin 4 -> Pin GND  
-  
 ![Schaltplan SDS011 + DHT22](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/files/nodemcu-v3-schaltplan-sds011.jpg)  
   
 ### Anschluß SDS011  
@@ -30,6 +13,23 @@ SDS011 Pin 4 -> unused
 SDS011 Pin 5 -> VU (NodeMCU v3) / VIN (NodeMCU v2)  
 SDS011 Pin 6 -> unused  
 SDS011 Pin 7 -> unused  
+  
+### Anschluß des DHT22  
+Pins sind von LINKS nach RECHTS nummeriert, Vorderseite ist das "Gitter"  
+DHT22 Pin 1 -> Pin 3V3 (3.3V)  
+DHT22 Pin 2 -> Pin D7 (GPIO13)  
+DHT22 Pin 3 -> unused  
+DHT22 Pin 4 -> Pin GND  
+  
+![Schaltplan PPD42NS + DHT22](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/files/nodemcu-v3-schaltplan.jpg)  
+
+### Anschluß des PPD42NS  
+Pins sind von RECHTS nach LINKS nummeriert  
+PPD42NS Pin 1 => GND  
+PPD42NS Pin 2 => Pin D5 /GPIO14  
+PPD42NS Pin 3 => VU (NodeMCU v3) / VIN (NodeMCU v2)  
+PPD42NS Pin 4 => Pin D6 / GPIO12  
+PPD42NS Pin 5 => unused  
   
 ### Montage in der Röhre  
 Bei der Montage in der Röhre ist darauf zu achten, das der PPD42NS im Betrieb möglichst senkrecht steht. Nur so ist ein maximaler Luftstrom durch den PPD42NS gegeben. Für unsere bisher montierten Geräte wurde dieser dafür im waagerechten Teil mit einem schmalen (3,2mm) Kabelbinder durch zwei Bohrungen befestigt. Die beiden Bohrungen liegen dabei oben mittig ca. 2 cm auseinander.  
