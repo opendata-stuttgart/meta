@@ -1,4 +1,4 @@
-vorherige Seite: [Zusammenbau der Komponenten](/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten) - nächste Seite: [Sensor-Konfiguration](/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren)  
+vorherige Seite: [Bezugsquellen Einzelteile](/opendata-stuttgart/meta/wiki/Bezugsquellen-Einzelteile) - nächste Seite: [Zusammenbau der Komponenten](/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten)  
 
 ## Firmware einspielen und Konfig löschen
   
