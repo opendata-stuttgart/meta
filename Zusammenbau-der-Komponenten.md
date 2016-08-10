@@ -3,7 +3,9 @@ vorherige Seite: [Firmware einspielen](/opendata-stuttgart/meta/wiki/Firmware-ei
 Für die Montage der einzelnen Komponenten empfehlen sich Dupont-Kabel mit ca. 20 cm Länge (siehe Bestellliste).
  
 ## WICHTIG !! Bei Verwendung des SDS011 unbedingt vor dem Zusammenbau die Firmware aufspielen !!  
-
+  
+Es scheint so, als ob die "Original-Firmware" nach Auslieferung auf einen der Pins D1 oder D2 5V schaltet, die zur Beschädigung des SDS011 führen können.  
+  
 ![Schaltplan SDS011 + DHT22](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/files/nodemcu-v3-schaltplan-sds011.jpg)  
   
 ### Anschluß SDS011  
