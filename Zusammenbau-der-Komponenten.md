@@ -1,7 +1,9 @@
 vorherige Seite: [Firmware einspielen](/opendata-stuttgart/meta/wiki/Firmware-einspielen) - nächste Seite: [Sensor-Konfiguration](/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren)  
   
 Für die Montage der einzelnen Komponenten empfehlen sich Dupont-Kabel mit ca. 20 cm Länge (siehe Bestellliste).
-  
+ 
+## WICHTIG !! Bei Verwendung des SDS011 unbedingt vor dem Zusammenbau die Firmware aufspielen !!  
+
 ![Schaltplan SDS011 + DHT22](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/files/nodemcu-v3-schaltplan-sds011.jpg)  
   
 ### Anschluß SDS011  
