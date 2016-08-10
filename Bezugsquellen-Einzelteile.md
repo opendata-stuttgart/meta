@@ -1,4 +1,4 @@
-vorherige Seite: [Home](/opendata-stuttgart/meta/wiki) - nächste Seite: [Zusammenbau der Komponenten](/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten)
+vorherige Seite: [Home](/opendata-stuttgart/meta/wiki) - nächste Seite: [Firmware einspielen](/opendata-stuttgart/meta/wiki/Firmware-einspielen)
   
 ###Liste mit Hardware die man braucht um loszulegen (mit AliExpress-Links)  
 
