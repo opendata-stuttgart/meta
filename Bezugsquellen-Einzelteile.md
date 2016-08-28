@@ -28,7 +28,7 @@ Preis ca. 2,30 Euro (Stand 06.04.2016):
 ~~Preis ca. 2,30 Euro (Stand 17.02.2016):~~  
 http://de.aliexpress.com/wholesale?site=deu&SortType=price_asc&shipCountry=de&SearchText=dht22&CatId=523  
   
-kleine Kabel, Käbelchen female-female, ca. 20cm oder wie ihr wollt
+kleine Kabel, Käbelchen female-female, ca. 20cm oder wie ihr wollt </br>
 Beispiel: http://de.aliexpress.com/item/Free-Shipping-80pcs-dupont-cable-jumper-wire-dupont-line-female-to-female-dupont-line-20cm-1P/701588771.html
 
 USB Kabel z.B: flach 2m Micro-USB: http://de.aliexpress.com/wholesale?catId=0&initiative_id=SB_20160828005508&SearchText=micro+usb+kabel+flach
