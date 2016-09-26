@@ -5,7 +5,7 @@ Die Parameter-Bezeichnungen sollten eigentlich selbsterklärend sein.
 Voreingestellt ist:  
 - Freifunk wird als WLAN-Zugang verwendet, dies sollte auf das eigene WLAN geändert werden, wenn Freifunk nicht verfügbar ist.  
 - Gesendet werden die Daten an api.luftdaten.info (SEND2DUSTI)
-- Ausgelesen wird nur der günstigere Feinstaubsensor PPD42NS (PPD_READ)
+- Ausgelesen wird der Feinstaubsensor SDS011 (SDS_READ) und der Temperatursensor DHT22 (DHT_READ)
 
 ### Per WifiConfig
 
