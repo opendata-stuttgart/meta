@@ -35,6 +35,8 @@
 * [[2017-03-14|]] Shackspace
 * [[2017-02-28|]] Stadtbücherei
 * [[2017-02-14|]] Shackspace
+-->
+
 * [[2017-01-24|]] Stadtbücherei
 * [[2017-01-10|]] Shackspace
 * [[2016-12-27|]] Stadtbücherei
@@ -43,8 +45,6 @@
 * [[2016-11-08|]] Shackspace
 * [[2016-10-25|]] Stadtbücherei
 * [[2016-10-11|]] Shackspace
--->
-
 * [[2016-09-27|]] Stadtbücherei
 * [[2016-09-13|]] Shackspace
 * [[2016-08-23|]] Stadtbücherei
