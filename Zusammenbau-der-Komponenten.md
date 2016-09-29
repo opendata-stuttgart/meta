@@ -6,8 +6,10 @@ Für die Montage der einzelnen Komponenten empfehlen sich Dupont-Kabel mit ca. 2
   
 Es scheint so, als ob die "Original-Firmware" nach Auslieferung auf einen der Pins D1 oder D2 5V schaltet, die zur Beschädigung des SDS011 führen können.  
   
-![Schaltplan SDS011 + DHT22](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/files/nodemcu-v3-schaltplan-sds011.jpg)  
-  
+![Schaltplan SDS011 + DHT22](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/files/nodemcu-v3-schaltplan-sds011.jpg)
+
+Optional, aber besser: DHT22 +(PIN1) auch an 5V(VU), z.B. mit doppelt männlichem Dupont-Kabel auf VU Dupontbuckse aufstecken.
+
 ### Anschluß SDS011  
 Pins sind von RECHTS nach LINKS nummeriert, beim Verbinden darauf achten, das die Kabel wirklich auf den Pins stecken, da die meisten Dupont-Kabel auch "neben" die Pins passen  
 SDS011 Pin 1 -> Pin D1 / GPIO5  
