@@ -161,25 +161,27 @@ Interessierte können gerne dazu kommen.
 \newpage 
 \section{Die Hardware}
 
-Für einen Sensor benötigte Bauteile:
+Für eine Station benötigte Bauteile:
 \begin{itemize}
 \item ESP8266 (WLAN, Prozessor) \\\includegraphics[width=0.49\textwidth]{images/sensor/esp8266.jpg} 
-\item PPD42NS (Feinstaub messen) \\\includegraphics[width=0.49\textwidth]{images/sensor/ppd.jpg} 
-\item SDS011 (Feinstaub messen), ersetzt PPD42NS, bessere Ergebnisse \\\includegraphics[width=0.49\textwidth]{images/sensor/sds011.jpg} 
+% \item PPD42NS (Feinstaub messen) \\\includegraphics[width=0.49\textwidth]{images/sensor/ppd.jpg} 
+\item SDS011 (Feinstaub messen), ersetzt PPD42NS \\\includegraphics[width=0.49\textwidth]{images/sensor/sds011.jpg} 
+\item DHT22 (Temperatur \& Luftfeuchtigkeit)\\\includegraphics[width=0.19\textwidth,angle=90]{images/sensor/dht22.jpg}
 \item Abflussröhren zur Außenmontage \\\includegraphics[width=0.49\textwidth]{images/sensor/roehren.jpg} 
 \item Stromversorgung (MicroUSB-Netzteil oder Akku) \\\includegraphics[width=0.49\textwidth]{images/sensor/usbcharger.jpg}
 \item Kleinkram (Kabel, LED, \dots) \\\includegraphics[width=0.49\textwidth]{images/sensor/cable_dupont.jpg}
+\item Micro-USB-Kabel
+\item Zugang zu Wifi-Netzwerk (ESSID + Passphrase), optional ein Freifunk-Router
 \end{itemize}
 
 % \newpage
-optionale Bauteile
-
-\begin{itemize}
-\item DHT22/SHTxx o.ä. (Temperatur \& Luftfeuchtigkeit)\\\includegraphics[width=0.19\textwidth,angle=90]{images/sensor/dht22.jpg}
-\item BMP180 (Luftdruck) %, Temperatur(?), Feuchtigkeit(?))
-\item Display
-\item GPS \\\includegraphics[width=0.49\textwidth]{images/sensor/gps.jpg}
-\end{itemize}
+% optionale Bauteile
+% 
+% \begin{itemize}
+% \item BMP180 (Luftdruck) %, Temperatur(?), Feuchtigkeit(?))
+% \item Display
+% \item GPS \\\includegraphics[width=0.49\textwidth]{images/sensor/gps.jpg}
+% \end{itemize}
 
 \section{Web}
 
@@ -189,10 +191,10 @@ optionale Bauteile
 
 	\item[Sourcecode] \href{https://github.com/opendata-stuttgart/}{github.com/opendata-stuttgart}
 	%\begin{itemize}
-		\\Wiki: \href{https://github.com/opendata-stuttgart/meta/wiki}{\dots/meta/wiki}
-		Software: \href{https://github.com/opendata-stuttgart/sensors-software}{\dots/sensors-software}
+		\\Wiki: \href{https://github.com/opendata-stuttgart/meta/wiki}{\dots/meta/wiki},
+		Software: \href{https://github.com/opendata-stuttgart/sensors-software}{\dots/sensors-software},
+	        BeginnersGuide: \href{https://github.com/opendata-stuttgart/sensors-software/blob/master/BeginnersGuide/Guide.md}{\dots/sensors-software/BeginnersGuide/}
 	%\end{itemize}
-
 	\item[Rohdaten] \href{http://archive.luftdaten.info/}{archive.luftdaten.info}
 	\item[Plots] \href{https://www.madavi.de/sensor/graph.php}{www.madavi.de/sensor/graph.php}
 	\item[Karte] \href{https://opendata-stuttgart.github.io/feinstaub-map/}{opendata-stuttgart.github.io/feinstaub-map}
