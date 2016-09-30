@@ -1,8 +1,8 @@
-# Station bauen
+# Station bauen{.allowframebreaks}
 
 Diese Anleitung erläutert den Zusammenbau einer Feinstaubmesstation, wie sie im OK-Lab Stuttgart entwickelt wurde.
 
-## Einzelteile, die benötigt werden:
+## Einzelteile, die benötigt werden{.allowframebreaks}
 
 |Bauteil|Abbildung|
 |:-----------------------------------------|-----------------------------------------------:|
@@ -10,31 +10,29 @@ Diese Anleitung erläutert den Zusammenbau einer Feinstaubmesstation, wie sie im
 |SDS011 (Feinstaub messen), ersetzt PPD42NS|![SDS011](images/sensor/sds011.jpg){width=25%}|
 |DHT22 (Temperatur & Luftfeuchtigkeit)|<!-- ![DHT22](images/sensor/dht22.jpg){width=19%} -->![DHT22](images/sensor/DHT22.jpg){width=9%}|
 |Abflussröhren zur Außenmontage|<!-- ![Röhren zur Montage](images/sensor/roehren.jpg){width=49%} -->![Röhren zur Montage](images/sensor/twotubes.jpg){width=29%}|
-|Stromversorgung (MicroUSB-Kabel + Netzteil)|<!-- ![Stromversorgung via Micro-USB](images/sensor/usbcharger.jpg){width=49%} -->![Stromversorgung via Micro-USB](images/sensor/usb_plug_cable.jpg){width=9%}|
+|Stromversorgung (MicroUSB-Kabel + Netzteil)|<!-- ![Stromversorgung via Micro-USB](images/sensor/usbcharger.jpg){width=49%} -->![Stromversorgung via Micro-USB](images/sensor/usb_plug_cable.jpg){width=19%}|
 |Kleinkram (Kabel, LED, ...)|![Dupont-Kabel](images/sensor/cable_dupont.jpg){width=29%}|
 
 * Zugang zu Wifi-Netzwerk (ESSID + Passphrase), optional ein Freifunk-Router
 
-![Alle elektronischen Teile]8images/sensor/all_electronic_parts.jpg)
+![Alle elektronischen Teile](images/sensor/all_electronic_parts.jpg)
 
 
-## Zusammenbau
+## Zusammenbau{.allowframebreaks}
 
 Siehe Wiki unter \href{https://github.com/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten}{github.com/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten}
 
-![Bauplan SDS](../files/nodemcu-v3-schaltplan-sds011.jpg){width=49%}
+![Bauplan SDS](../files/nodemcu-v3-schaltplan-sds011.jpg){width=49%,angle=90}
 
 ![Elektronik zusammengebaut für Station](images/sensor/assembled2_annot_150dpi.pdf)
 
-Für die Montage der einzelnen Komponenten empfehlen sich Dupont-Kabel mit ca. 20 cm Länge (siehe Bestellliste).
-
-WICHTIG !! Bei Verwendung des SDS011 unbedingt vor dem Zusammenbau die Firmware aufspielen !!
-
+<!-- Für die Montage der einzelnen Komponenten empfehlen sich Dupont-Kabel mit ca. 20 cm Länge (siehe Bestellliste). -->
+WICHTIG: Bei Verwendung des SDS011 unbedingt **vor dem Zusammenbau die Firmware aufspielen!**
 Es scheint so, als ob die "Original-Firmware" nach Auslieferung auf einen der Pins D1 oder D2 5V schaltet, die zur Beschädigung des SDS011 führen können.
 
-Optional, aber besser: DHT22 +(PIN1) auch an 5V(VU), z.B. mit doppelt männlichem Dupont-Kabel auf VU Dupontbuckse aufstecken.
+<!-- --- -->
 
-### Anschluß SDS011
+### Anschluss SDS011{.allowframebreaks}
 
 Pins sind von RECHTS nach LINKS nummeriert, beim Verbinden darauf achten, das die Kabel wirklich auf den Pins stecken, da die meisten Dupont-Kabel auch "neben" die Pins passen
 
@@ -46,7 +44,9 @@ Pins sind von RECHTS nach LINKS nummeriert, beim Verbinden darauf achten, das di
     SDS011 Pin 6 -> unused
     SDS011 Pin 7 -> unused
 
-### Anschluß des DHT22
+<!-- --- -->
+
+### Anschluss des DHT22{.allowframebreaks}
 
 Pins sind von LINKS nach RECHTS nummeriert, Vorderseite ist das "Gitter"
 
@@ -55,22 +55,24 @@ Pins sind von LINKS nach RECHTS nummeriert, Vorderseite ist das "Gitter"
     DHT22 Pin 3 -> unused
     DHT22 Pin 4 -> Pin GND
 
-<!-- \clearpage -->
+Optional, aber besser: DHT22 +(PIN1) auch an 5V(VU), z.B. mit doppelt männlichem Dupont-Kabel auf VU Dupontbuckse aufstecken.
 
-### Einbau in Röhren
+<!-- --- -->
+
+### Einbau in Röhren{.allowframebreaks}
 
 ![Zusammenstecken mit Kabelbindern](images/sensor/assembled_fixed.jpg){width=49%}
 ![Einbau in Röhre](images/sensor/assembled_fixed_in1tube.jpg){width=49%}
 
-* Mit zwei Kabelbindern können die Teile leicht zusammengebaut werden und passen dann genau in die Röhren 
-* Einbau so, dass der Lüfter des SDS unten ist und auf der Seite der Röhre, die keine Gummidichtung hat
+* Mit zwei Kabelbindern die Teile so zusammenbinden, dass sie genau in die Röhren passen
+* Einbau so, dass der Lüfter des SDS unten ist und auf der Röhrenseite *ohne* Gummidichtung
 * zweites Teil aufstecken, dabei USB-Kabel herausführen
 
-## Konfiguration der Station
+## Konfiguration der Station{.allowframebreaks}
 
 * Station einschalten (Stromkabel verbinden)
 * die Station versucht, sich auf den konfigurierten WLAN-Accesspoint zu verbinden
-* wenn das nicht klappt, öffnet der Sensor einen Accesspoint mit dem Namen *Feinstaubsensor-<ID>*, wobei <ID> die ChipID ist.
+* wenn das nicht klappt, öffnet der Sensor einen Accesspoint mit dem Namen *Feinstaubsensor-ID*, wobei ID die ChipID (in dezimal) ist.
 * Man verbinde sich mit diesem Wireless-Netzwerk
 * und rufe dann die Seite \href{http://192.168.4.1/}{http://192.168.4.1/} auf, dort kann der Sensor konfiguriert werden
 * unter *Configure Wifi* SSID und password des eigenen Netzes eintragen
