@@ -1,4 +1,4 @@
-vorherige Seite: [Bezugsquellen Einzelteile](/opendata-stuttgart/meta/wiki/Bezugsquellen-Einzelteile) - nächste Seite: [Zusammenbau der Komponenten](/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten)  
+vorherige Seite: [Bezugsquellen Einzelteile](/opendata-stuttgart/meta/wiki/Bezugsquellen-Einzelteile) - nächste Seite: [Zusammenbau der Komponenten (Schaltung)](/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten-(Schaltung))  
 
 ## Firmware einspielen und Konfig löschen
   
