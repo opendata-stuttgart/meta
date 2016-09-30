@@ -1,4 +1,4 @@
-vorherige Seite: [Firmware einspielen](/opendata-stuttgart/meta/wiki/Firmware-einspielen) - nächste Seite: [Sensor-Konfiguration](/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren)  
+vorherige Seite: [Firmware einspielen](/opendata-stuttgart/meta/wiki/Firmware-einspielen) - nächste Seite: [Zusammenbau der Komponenten (Montage Einzelteile)](/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten-(Montage-Einzelteile))  
   
 Für die Montage der einzelnen Komponenten empfehlen sich Dupont-Kabel mit ca. 20 cm Länge (siehe Bestellliste).
  
