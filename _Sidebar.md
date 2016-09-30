@@ -4,6 +4,7 @@
 * [Bezugsquellen Einzelteile] (/opendata-stuttgart/meta/wiki/Bezugsquellen-Einzelteile)  
 * [Firmware einspielen] (/opendata-stuttgart/meta/wiki/Firmware-einspielen)
 * [Zusammenbau der Komponenten (Schaltung)] (/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten-(Schaltung))  
+* [Zusammenbau der Komponenten (Montage Einzelteile)] (/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten-(Montage-Einzelteile))
 * [Sensor-Konfiguration] (/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren)
 * [APIs] (/opendata-stuttgart/meta/wiki/APIs)
 * [NodeMCU Pinouts v2, v3] (/opendata-stuttgart/meta/wiki/Pinouts-NodeMCU-v2,-v3)
