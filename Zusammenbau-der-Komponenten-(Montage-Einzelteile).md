@@ -5,7 +5,8 @@ Diese Teile sollten vorhanden sein (hier mit DHT22):
 ![Alle benötigten Teile](https://github.com/opendata-stuttgart/meta/raw/master/images/zusammenbau/1_-_alle_Teile.jpg)  
   
 SDS011 und DHT22 an die NodeMCU anschließen:  
-(nach dem Anschluss der Kabel diese am besten mit etwas Textilklebeband sichern)   
+* nach dem Anschluss der Kabel diese am besten mit etwas Textilklebeband sichern  
+* hier ist auch der DHT22 an 5V angeschlossen, dafür müssen die beiden Dumont-Kabel entsprechend verbunden werden. Alternativ kann der DHT22 auch an 3,3V angeschlossen werden  
   
 ![SDS011 und DHT22 an die NodeMCU anschließen](https://github.com/opendata-stuttgart/meta/raw/master/images/zusammenbau/2_-_Sensoren_an_NodeMCU_anschliessen.jpg)  
   
