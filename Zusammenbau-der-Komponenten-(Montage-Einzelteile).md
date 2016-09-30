@@ -1,4 +1,4 @@
-vorherige Seite: [Firmware einspielen](/opendata-stuttgart/meta/wiki/Firmware-einspielen) - nächste Seite: [Sensor-Konfiguration](/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren)  
+vorherige Seite: [Zusammenbau der Komponenten (Schaltung)](https://github.com/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten-(Schaltung)) - nächste Seite: [Sensor-Konfiguration](/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren)  
   
 Diese Teile sollten vorhanden sein (hier mit DHT22):  
   
