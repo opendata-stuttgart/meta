@@ -73,23 +73,34 @@ Optional, aber besser: DHT22 +(PIN1) auch an 5V(VU), z.B. mit doppelt männliche
 * Station einschalten (Stromkabel verbinden)
 * die Station versucht, sich auf den konfigurierten WLAN-Accesspoint zu verbinden
 * wenn das nicht klappt, öffnet der Sensor einen Accesspoint mit dem Namen *Feinstaubsensor-ID*, wobei ID die ChipID (in dezimal) ist.
-* Man verbinde sich mit diesem Wireless-Netzwerk
-* und rufe dann die Seite \href{http://192.168.4.1/}{http://192.168.4.1/} auf, dort kann der Sensor konfiguriert werden
-* unter *Configure Wifi* SSID und password des eigenen Netzes eintragen
-    * *(0/1)?* bedeutet, dass 1 (=ja) oder 0 (=nein) eingetragen wird (1 für ja/vorhanden, 0 für nein/nicht_da)
-    * sinnvolle Voreinstellungen sind (mit SDS011 und DHT Sensoren):
+    * Man verbinde sich mit diesem Wireless-Netzwerk
+    * und rufe dann die Seite \href{http://192.168.4.1/}{http://192.168.4.1/} auf, dort kann der Sensor konfiguriert werden
+    
+        *Achtung:* Der Sensor versucht beim Start eine Verbindung zum WLAN, wenn das nicht funktioniert (nach ca. 10-20 sec.), dann erzeugt er diesen WLAN-Accesspoint (Oft braucht der Rechner auch noch ein bisschen Zeit, bis er das Netz "bemerkt"). Die Konfiguration ist für 300 sec erreichbar, im Zweifel nur SSID und Passwort eintragen, ich hatte schon beim senden, dass der AP schon wieder weg war. Es gibt einen Reset-Knopf (RST) links neben der USB-Buchse zum Reboot.
+    * unter *Configure Wifi* SSID und password des eigenen Netzes eintragen
+        * *(0/1)?* bedeutet, dass 1 (=ja) oder 0 (=nein) eingetragen wird (1 für ja/vorhanden, 0 für nein/nicht_da)
+        * sinnvolle Voreinstellungen sind (mit SDS011 und DHT Sensoren):
 
-            1 "Senden an luftdaten.info (0/1) ?"
-            1 "Senden an madavi.de (0/1) ?"
-            0 "Seriell als CSV (0/1) ?"
-            1 "DHT Sensor (0/1) ?"
-            0 "PPD42NS Sensor (0/1) ?"
-            1 "SDS Sensor (0/1) ?"
-            0 "BMP Sensor (0/1) ?"
-            1 "Auto-Update (0/1) ?"
-            0 "Display (0/1) ?"
-            3 "Debug output (0-5) ?"
-            0 "Senden an eigene API (0/1)?"
+                1 "Senden an luftdaten.info (0/1) ?"
+                1 "Senden an madavi.de (0/1) ?"
+                0 "Seriell als CSV (0/1) ?"
+                1 "DHT Sensor (0/1) ?"
+                0 "PPD42NS Sensor (0/1) ?"
+                1 "SDS Sensor (0/1) ?"
+                0 "BMP Sensor (0/1) ?"
+                1 "Auto-Update (0/1) ?"
+                0 "Display (0/1) ?"
+                3 "Debug output (0-5) ?"
+                0 "Senden an eigene API (0/1)?"
+    
+        * *save*, dann sollte diese Seite erscheinen ansonsten noch einmal RST und von vorne
+	
+                Credentials Saved
+                Trying to connect ESP to network.
+                If it fails reconnect to AP to try again
+
+	* die URL kann übrigens wiederverwendet werden, und sieht so aus (MYESSID MYPASSWORD anpassen):
+	  [192.168.4.1/wifisave?s=MYESSID&p=MYPASSWORD&send2dusti=1&send2madavi=1&send2csv=0&dht_read=1&ppd_read=0&sds_read=1&bmp_read=0&auto_update=1&has_display=0&debug=3&%CC.%FF%3F%BC%94%FE%3F%CC%3B%FF%3F%0D%0A=0](http://192.168.4.1/wifisave?s=MYESSID&p=MYPASSWORD&send2dusti=1&send2madavi=1&send2csv=0&dht_read=1&ppd_read=0&sds_read=1&bmp_read=0&auto_update=1&has_display=0&debug=3&%CC.%FF%3F%BC%94%FE%3F%CC%3B%FF%3F%0D%0A=0)
 
 <!-- ![Sensorkonfiguration Startseite](images/wificonfig-01.png){width=49%} -->
 
@@ -107,6 +118,13 @@ config file not found ...
 6
 Connecting to FREIFUNK
 ....................
+
+* Konfiguration via Browser on http://192.168.4.1/
+
+	Credentials Saved
+	Trying to connect ESP to network.
+	If it fails reconnect to AP to try again
+
 ---- Result from Webconfig ----
 WLANSSID: Freifunk
 DHT_read:  - 1
