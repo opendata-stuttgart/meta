@@ -1,5 +1,8 @@
 vorherige Seite: [Home](/opendata-stuttgart/meta/wiki) - nächste Seite: [Firmware einspielen](/opendata-stuttgart/meta/wiki/Firmware-einspielen)
   
+Wenn Sie für einen der Sensoren auf BetterPlace.de gespendet haben, nehmen Sie mit uns Kontakt auf () oder besuchen Sie uns bei einem unserer Treffen im [shackspace](http://shackspace.de) jeden 4. Dienstag im Monat.
+Für alle anderen empfehlen wir die unten angegebenen Links zur Bestellung der Teile über AliExpress.
+  
 ###Liste mit Hardware die man braucht um loszulegen (mit AliExpress-Links)  
 
 **Netzteil USB**, 5V (nicht das billigste nehmen)
