@@ -40,5 +40,3 @@ optional:
 Zum programmieren:
 * FTDI (3.3V/5V Quelle aus USB + Serial)
 
-http://blog.asw.io/esp8266/2015/06/06/howto-flash-esp8266-with-nodemcu-firmware/
-  
