@@ -1,4 +1,4 @@
-vorherige Seite: [Zusammenbau der Komponenten (Montage-Einzelteile)](https://github.com/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten-(Montage-Einzelteile)) - nächste Seite: [APIs](/opendata-stuttgart/meta/wiki/APIs)  
+vorherige Seite: [Zusammenbau der Komponenten (Montage-Einzelteile)](https://github.com/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten-(Montage-Einzelteile)) - nächste Seite: [Eintrag in die Datenbank](/opendata-stuttgart/meta/wiki/Eintrag-in-unsere-Datenbank)  
 
 ### Im Software-Sourcecode  
   
