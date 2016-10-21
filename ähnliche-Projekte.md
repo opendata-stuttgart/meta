@@ -6,7 +6,6 @@ Liste ähnlicher Projekte zur Messung der Luftbelastung
 * Projekt basiert auf Aircasting http://aircasting.org/  
 * Android App http://aircasting.org/
 * Sensor box: https://github.com/vitiral/Airbeam
-  
 * Feinstaub-Sensor arbeitet ähnlich wie der PPD42NS  
   
   
