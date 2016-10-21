@@ -2,7 +2,7 @@ vorherige Seite: [Studien](/opendata-stuttgart/meta/wiki/Studien)
   
 Liste ähnlicher Projekte zur Messung der Luftbelastung  
   
-AirBeam:  
+**AirBeam:**  
 * Projekt basiert auf Aircasting http://aircasting.org/  
 * Android App http://aircasting.org/
 * Sensor box: https://github.com/vitiral/Airbeam
