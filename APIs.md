@@ -1,3 +1,5 @@
+vorherige Seite: [Eintrag in der Datenbank](/opendata-stuttgart/meta/wiki/Eintrag-in-unsere-Datenbank) - nächste Seite: [PinOuts NodeMCU v2, v3](/opendata-stuttgart/meta/wiki/Pinouts-NodeMCU-v2,-v3)  
+
 ### api.luftdaten.info (aka dusti.api)  
 Die API nimmt die Sensordaten entgegen und dient als Basis für die grafische Darstellung auf http://opendata-stuttgart.github.io/feinstaub-map/ . Zudem werden die Daten der "öffentlichen" Sensoren einmal täglich (gegen 8:00 Uhr) als CSV exportiert und unter http://archive.luftdaten.info/ zur Verfügung gestellt.  
 
