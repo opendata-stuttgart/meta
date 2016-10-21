@@ -6,7 +6,7 @@
 * [Zusammenbau der Komponenten (Schaltung)] (/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten-(Schaltung))  
 * [Zusammenbau der Komponenten (Montage Einzelteile)] (/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten-(Montage-Einzelteile))
 * [Sensor-Konfiguration] (/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren)
-* 
+* [Eintrag in der Datenbank] (/opendata-stuttgart/meta/wiki/Eintrag-in-unsere-Datenbank)
 * [APIs] (/opendata-stuttgart/meta/wiki/APIs)
 * [NodeMCU Pinouts v2, v3] (/opendata-stuttgart/meta/wiki/Pinouts-NodeMCU-v2,-v3)
 * [Datenblätter, Spezifikationen] (/opendata-stuttgart/meta/wiki/Datenbl%C3%A4tter-Spezifikationen)
