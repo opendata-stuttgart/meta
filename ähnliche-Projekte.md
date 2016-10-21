@@ -14,4 +14,9 @@ Liste ähnlicher Projekte zur Messung der Luftbelastung
 * misst VOC (flüchtige organische Verbindungen), keine genaue Angabe welche  
 * wie steht es mit der Genauigkeit (beim angegebenen Preis), siehe dazu die Angaben zu entsprechenden Sensoren für Arduino und Co.  
   
+**TimeLab ADEM**
+* http://ik-adem.be
+* Projekt in Gent
+* Ziel war/ist die Messung der Feinstaubbelastung unterwegs mit dem Fahrrad
+* Sensor PPD42NS
    
