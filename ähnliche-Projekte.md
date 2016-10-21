@@ -8,3 +8,10 @@ Liste ähnlicher Projekte zur Messung der Luftbelastung
 * Sensor box: https://github.com/vitiral/Airbeam
   
 Kommentar: Feinstaub-Sensor arbeitet ähnlich wie der PPD42NS  
+  
+  
+**AtmoTube**  
+* misst VOC (flüchtige organische Verbindungen), keine genaue Angabe welche  
+* wie steht es mit der Genauigkeit (beim angegebenen Preis), siehe dazu die Angaben zu entsprechenden Sensoren für Arduino und Co.  
+  
+   
