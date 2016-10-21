@@ -1,3 +1,5 @@
+vorherige Seite: [Pinout NodeMCU v2, v3](/opendata-stuttgart/meta/wiki/Pinouts-NodeMCU-v2,-v3) - nächste Seite: [Studien](/opendata-stuttgart/meta/wiki/Studien)  
+  
 [AM2302] (https://github.com/opendata-stuttgart/meta/blob/master/files/AM2302.pdf) (entspricht DHT22)  
 [DHT22] (https://github.com/opendata-stuttgart/meta/blob/master/files/DHT22.pdf)  
 [PPD42NS] (https://github.com/opendata-stuttgart/meta/blob/master/files/PPD42NS.pdf)  
