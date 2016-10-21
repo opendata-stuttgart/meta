@@ -1,3 +1,5 @@
+vorherige Seite: [Datenblätter, Spezifikationen](/opendata-stuttgart/meta/wiki/Datenbl%C3%A4tter-Spezifikationen) - nächste Seite: [ähnliche Projekte]()  
+
 [Laboratory evaluation of the Shinyei PPD42NS low-cost particulate matter sensor] (/opendata-stuttgart/meta/blob/master/files/journal.pone.0137789.pdf), E. Austin, I. Novosselov, E.Seto, M.G. Yost, PLoS ONE 10(9): e0137789. doi:10.1371/journal. pone.0137789, 2015  
   
 [Field calibrations of a low-cost aerosol sensor] (/opendata-stuttgart/meta/blob/master/files/amtd-7-605-2014.pdf), D.M. Holstius et al., AMTD 7/2014, Seiten 605-632  
