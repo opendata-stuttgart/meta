@@ -1,3 +1,5 @@
+vorherige Seite: [Sensor-Konfiguration](/opendata-stuttgart/meta/wiki/Konfiguration-der-Sensoren) - nächste Seite: [APIs](/opendata-stuttgart/meta/wiki/APIs)  
+
 ## Eintrag in unsere Datenbank
 
 Für den Eintrag eines Sensors in die Datenbank benötigen wir ein paar Informationen.
