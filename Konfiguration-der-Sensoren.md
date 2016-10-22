@@ -25,6 +25,20 @@ Nach dem Klick auf "Config Wifi" kann es einen Moment dauern (es wird nach verf�
 ![Konfiguration Sensor](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/images/wificonfig/Konfiguration%20Sensor.png)  
 
 Dort können die Zugangsdaten für das WLAN eingetragen werden. Die restlichen Felder konfigurieren die eingebauten Sensoren und sollten nicht ausgefüllt werden müssen. Leere Felder behalten die vorkonfigurierten Standardwerte. Nach dem Speichern der Konfiguration verbindet sich der Sensor dann mit dem eingetragenen WLAN.
+– sinnvolle Voreinstellungen sind (mit SDS011 "der neue" und DHT Sensor):
+1 "Senden an luftdaten.info (0/1) ?"
+1 "Senden an madavi.de (0/1) ?"
+0 "Seriell als CSV (0/1) ?"
+1 "DHT Sensor (0/1) ?"
+0 "PPD42NS Sensor (0/1) ?"
+1 "SDS Sensor (0/1) ?"
+0 "BMP Sensor (0/1) ?"
+1 "Auto-Update (0/1) ?"
+0 "Display (0/1) ?"
+3 "Debug output (0-5) ?"
+0 "Senden an eigene API (0/1)?"
+Figure
+
 
 ### Löschen der Konfiguration  
   
