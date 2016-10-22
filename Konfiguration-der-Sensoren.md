@@ -35,7 +35,7 @@ Dort können die Zugangsdaten für das WLAN eingetragen werden. Die restlichen F
 0 "BMP Sensor (0/1) ?"<br>
 1 "Auto-Update (0/1) ?"<br>
 0 "Display (0/1) ?"<br>
-3 "Debug output (0-5) ?"
+3 "Debug output (0-5) ?"<br>
 0 "Senden an eigene API (0/1)?"<br>
 
 
