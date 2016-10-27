@@ -76,7 +76,7 @@ Optional, aber besser: DHT22 +(PIN1) auch an 5V(VU), z.B. mit doppelt männliche
     * Man verbinde sich mit diesem Wireless-Netzwerk
     * und rufe dann die Seite \href{http://192.168.4.1/}{http://192.168.4.1/} auf, dort kann der Sensor konfiguriert werden
     
-        *Achtung:* Der Sensor versucht beim Start eine Verbindung zum WLAN, wenn das nicht funktioniert (nach ca. 10-20 sec.), dann erzeugt er diesen WLAN-Accesspoint (Oft braucht der Rechner auch noch ein bisschen Zeit, bis er das Netz "bemerkt"). Die Konfiguration ist für 300 sec erreichbar, im Zweifel nur SSID und Passwort eintragen, ich hatte schon beim senden, dass der AP schon wieder weg war. Es gibt einen Reset-Knopf (RST) links neben der USB-Buchse zum Reboot.
+        *Achtung:* Der Sensor versucht beim Start eine Verbindung zum WLAN, wenn das nicht funktioniert (nach ca. 10-20 sec.), dann erzeugt er diesen WLAN-Accesspoint (Oft braucht der Rechner auch noch ein bisschen Zeit, bis er das Netz "bemerkt"). Die Konfiguration ist für 300 sec erreichbar, im Zweifel nur SSID und Passwort eintragen, ich hatte schon beim senden, dass der AP schon wieder weg war (Browser meldet Netzwerkfehler). Es gibt einen Reset-Knopf (RST) links neben der USB-Buchse zum Reboot.
     * unter *Configure Wifi* SSID und password des eigenen Netzes eintragen
         * *(0/1)?* bedeutet, dass 1 (=ja) oder 0 (=nein) eingetragen wird (1 für ja/vorhanden, 0 für nein/nicht_da)
         * sinnvolle Voreinstellungen sind (mit SDS011 und DHT Sensoren):
