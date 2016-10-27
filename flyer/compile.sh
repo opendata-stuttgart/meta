@@ -19,3 +19,7 @@ gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dColorImageResolution="$targetdpi
 
 sed -e 's#^<!-- --- -->#---#' assemble_station.md|pandoc -f markdown -t beamer --slide-level=2 -o talk_assemble_station.md.pdf
 
+# s5 version (not properly formatted: too long content for slides, no framebreak)
+# you need to get the s5 framework, unpack ui/default/ as s5/default/ dir here. Download from http://meyerweb.com/eric/tools/s5/ http://meyerweb.com/eric/tools/s5/v/1.1/s5-11.zip
+# sed -e 's#^<!-- --- -->#---#' assemble_station.md|pandoc -f markdown -t s5 --slide-level=2 -S -s -o talk_assemble_station.md.html
+
