@@ -8,6 +8,7 @@ vorherige Seite: [Zusammenbau der Komponenten (Montage-Einzelteile)](/opendata-s
   
 Wenn der Feinstaub-Sensor keine Verbindung zum vorkonfigurierten WLAN aufbauen kann, wird der Sensor selbst zum Hotspot. Der Name dieses Hotspots ist "Feinstaubsensor-<chipid>". Die Chip-ID sollte man bei dieser Gelegenheit gleich notieren, da diese für den Eintrag in der Sensor-Datenbank benötigt wird. Mit diesem Hotspot kann sich jedes WLAN-fähige Gerät (Tablet, Handy,...) verbinden.
 
+#### Auf PC / Notebook
 Bitte auf PCs/Notebooks für die Konfiguration folgende Schritte durchführen:
 * Browser öffnen (dieser blockiert wohl manchmal, wenn keine Internet-Verbindung funktioniert)
 * danach den Sensor durch kurzes Herausziehen und Wiedereinstecken des Netzteils neu starten
