@@ -1,6 +1,9 @@
 vorherige Seite: [Zusammenbau der Komponenten (Montage-Einzelteile)](/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten-(Montage-Einzelteile)) - nächste Seite: [Eintrag in die Datenbank](/opendata-stuttgart/meta/wiki/Eintrag-in-unsere-Datenbank)  
 
-[### Im Software-Sourcecode](#selber-flashen)  
+[Für Leute, die die NodeMCU selber flashen](#im-software-sourcecode)  
+[Für alle, die einen fertig programmierten Sensor haben](#per-wificonfig)
+
+### Im Software-Sourcecode  
   
 In der Datei ext_def.h können die Parameter für den WLAN-Zugang und die verwendeten Sensoren konfiguriert werden.  
 Die Parameter-Bezeichnungen sollten eigentlich selbsterklärend sein.  
