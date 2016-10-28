@@ -13,7 +13,7 @@ Bitte auf PCs/Notebooks für die Konfiguration folgende Schritte durchführen:
 * Browser öffnen (dieser blockiert wohl manchmal, wenn keine Internet-Verbindung funktioniert)
 * danach den Sensor durch kurzes Herausziehen und Wiedereinstecken des Netzteils neu starten
 * ca. 1 Minute warten (manchmal braucht der Sensor etwas länger zum Starten)
-* PC/Notebook mit dem Hotspot "Feinstaubsensor-XXXXXX" verbinden.
+* PC/Notebook mit dem Hotspot "Feinstaubsensor-XXXXXX" verbinden, kurz warten bis die Verbindung hergestellt ist
 * Dann im Browser http://192.168.4.1/ öffnen und den Sensor konfigurieren
   
 #### Mit dem Handy
