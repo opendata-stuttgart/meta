@@ -16,6 +16,7 @@ Bitte auf PCs/Notebooks für die Konfiguration folgende Schritte durchführen:
 * PC/Notebook mit dem Hotspot "Feinstaubsensor-XXXXXX" verbinden.
 * Dann im Browser http://192.168.4.1/ öffnen und den Sensor konfigurieren
   
+#### Mit dem Handy
 Unter Android sieht dies z.B. so aus:  
 Über den Status Bar:  
 ![Android WLAN über Taskbar](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/images/wificonfig/WLAN%20Auswahl%201.png)  
