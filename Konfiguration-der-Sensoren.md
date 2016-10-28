@@ -1,16 +1,8 @@
 vorherige Seite: [Zusammenbau der Komponenten (Montage-Einzelteile)](/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten-(Montage-Einzelteile)) - nächste Seite: [Eintrag in die Datenbank](/opendata-stuttgart/meta/wiki/Eintrag-in-unsere-Datenbank)  
 
-[Für Leute, die die NodeMCU selber flashen](#im-software-sourcecode)  
-[Für alle, die einen fertig programmierten Sensor haben](#per-wificonfig)
-
-### Im Software-Sourcecode  
-  
-In der Datei ext_def.h können die Parameter für den WLAN-Zugang und die verwendeten Sensoren konfiguriert werden.  
-Die Parameter-Bezeichnungen sollten eigentlich selbsterklärend sein.  
-Voreingestellt ist:  
-- Freifunk wird als WLAN-Zugang verwendet, dies sollte auf das eigene WLAN geändert werden, wenn Freifunk nicht verfügbar ist.  
-- Gesendet werden die Daten an api.luftdaten.info (SEND2DUSTI)
-- Ausgelesen wird der Feinstaubsensor SDS011 (SDS_READ) und der Temperatursensor DHT22 (DHT_READ)
+[Für alle, die einen fertig programmierten Sensor haben](#per-wificonfig)  
+[Für diejenigen, die ihre NodeMCU selber flashen](#im-software-sourcecode)  
+[Löschen der Konfiguration](#loeschen-der-konfiguration)  
 
 ### Per WifiConfig
 
@@ -41,6 +33,15 @@ Dort können die Zugangsdaten für das WLAN eingetragen werden. Die restlichen F
 3 "Debug output (0-5) ?"<br>
 0 "Senden an eigene API (0/1)?"<br>
 
+
+### Im Software-Sourcecode  
+  
+In der Datei ext_def.h können die Parameter für den WLAN-Zugang und die verwendeten Sensoren konfiguriert werden.  
+Die Parameter-Bezeichnungen sollten eigentlich selbsterklärend sein.  
+Voreingestellt ist:  
+- Freifunk wird als WLAN-Zugang verwendet, dies sollte auf das eigene WLAN geändert werden, wenn Freifunk nicht verfügbar ist.  
+- Gesendet werden die Daten an api.luftdaten.info (SEND2DUSTI)
+- Ausgelesen wird der Feinstaubsensor SDS011 (SDS_READ) und der Temperatursensor DHT22 (DHT_READ)
 
 
 ### Löschen der Konfiguration  
