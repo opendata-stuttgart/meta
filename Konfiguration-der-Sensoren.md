@@ -1,6 +1,6 @@
 vorherige Seite: [Zusammenbau der Komponenten (Montage-Einzelteile)](/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten-(Montage-Einzelteile)) - nächste Seite: [Eintrag in die Datenbank](/opendata-stuttgart/meta/wiki/Eintrag-in-unsere-Datenbank)  
 
-### Im Software-Sourcecode  
+|### Im Software-Sourcecode](#selber-flashen)  
   
 In der Datei ext_def.h können die Parameter für den WLAN-Zugang und die verwendeten Sensoren konfiguriert werden.  
 Die Parameter-Bezeichnungen sollten eigentlich selbsterklärend sein.  
