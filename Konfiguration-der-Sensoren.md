@@ -5,8 +5,17 @@ vorherige Seite: [Zusammenbau der Komponenten (Montage-Einzelteile)](/opendata-s
 [Löschen der Konfiguration](#löschen-der-konfiguration)  
 
 ### Per WifiConfig
+  
+Wenn der Feinstaub-Sensor keine Verbindung zum vorkonfigurierten WLAN aufbauen kann, wird der Sensor selbst zum Hotspot. Der Name dieses Hotspots ist "Feinstaubsensor-<chipid>". Die Chip-ID sollte man bei dieser Gelegenheit gleich notieren, da diese für den Eintrag in der Sensor-Datenbank benötigt wird. Mit diesem Hotspot kann sich jedes WLAN-fähige Gerät (Tablet, Handy,...) verbinden.
 
-Wenn der Feinstaub-Sensor keine Verbindung zum vorkonfigurierten WLAN aufbauen kann, wird der Sensor selbst zum Hotspot. Der Name dieses Hotspots ist "Feinstaubsensor-<chipid>". Die Chip-ID sollte man bei dieser Gelegenheit gleich notieren, da diese für den Eintrag in der Sensor-Datenbank benötigt wird. Mit diesem Hotspot kann sich jedes WLAN-fähige Gerät (Tablet, Handy,...) verbinden. Unter Android sieht dies z.B. so aus:  
+Bitte auf PCs/Notebooks für die Konfiguration folgende Schritte durchführen:
+* Browser öffnen (dieser blockiert wohl manchmal, wenn keine Internet-Verbindung funktioniert)
+* danach den Sensor durch kurzes Herausziehen und Wiedereinstecken des Netzteils neu starten
+* ca. 1 Minute warten (manchmal braucht der Sensor etwas länger zum Starten)
+* PC/Notebook mit dem Hotspot "Feinstaubsensor-XXXXXX" verbinden.
+* Dann im Browser http://192.168.4.1/ öffnen und den Sensor konfigurieren
+  
+Unter Android sieht dies z.B. so aus:  
 Über den Status Bar:  
 ![Android WLAN über Taskbar](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/images/wificonfig/WLAN%20Auswahl%201.png)  
   
