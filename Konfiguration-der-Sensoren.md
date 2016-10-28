@@ -2,7 +2,7 @@ vorherige Seite: [Zusammenbau der Komponenten (Montage-Einzelteile)](/opendata-s
 
 [Für alle, die einen fertig programmierten Sensor haben](#per-wificonfig)  
 [Für diejenigen, die ihre NodeMCU selber flashen](#im-software-sourcecode)  
-[Löschen der Konfiguration](#loeschen-der-konfiguration)  
+[Löschen der Konfiguration](#löschen-der-konfiguration)  
 
 ### Per WifiConfig
 
