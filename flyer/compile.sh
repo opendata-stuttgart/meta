@@ -15,6 +15,8 @@ pandoc -S --toc -V classoption:DIV21 -V colorlinks:true -V documentclass:scrartc
 targetdpi=150
 gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dColorImageResolution="$targetdpi" -dColorImageDownsampleType=/Average -dGrayImageDownsampleType=/Average -dGrayImageResolution="$targetdpi" -dMonoImageResolution="$targetdpi" -dMonoImageDownsampleType=/Average -dOptimize=true -dDownsampleColorImages=true -dDownsampleGrayImages=true -dDownsampleMonoImages=true -dUseCIEColor -dColorConversionStrategy=/sRGB -dNOPAUSE -dQUIET -dBATCH -sOutputFile="assemble_station.${targetdpi}dpi.pdf" assemble_station.md.pdf
 
+pdfbook "assemble_station.${targetdpi}dpi.pdf"
+
 # assemble talk version
 
 sed -e 's#^<!-- --- -->#---#' assemble_station.md|pandoc -f markdown -t beamer --slide-level=2 -o talk_assemble_station.md.pdf
