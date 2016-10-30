@@ -4,14 +4,14 @@ Diese Anleitung erläutert den Zusammenbau einer Feinstaubmesstation, wie sie im
 
 ## Einzelteile, die benötigt werden{.allowframebreaks}
 
-|Bauteil|Abbildung|
-|:-----------------------------------------|-----------------------------------------------:|
-|ESP8266 (WLAN, Prozessor für Datenspeicherung)|![ESP8266](images/sensor/esp8266.jpg){width=13%} <!--  * PPD42NS (Feinstaubsensor) [](images/sensor/ppd.jpg)  -->|
-|SDS011 (Feinstaubsensor), ersetzt PPD42NS|![SDS011](images/sensor/sds011.jpg){width=25%}|
-|DHT22 (Sensor für Temperatur & Luftfeuchtigkeit)|<!-- ![DHT22](images/sensor/dht22.jpg){width=19%} -->![DHT22](images/sensor/DHT22.jpg){width=9%}|
-|Abflussröhren zur Außenmontage (Schutzhülle)|<!-- ![Röhren zur Montage](images/sensor/roehren.jpg){width=49%} -->![Röhren zur Montage](images/sensor/twotubes.jpg){width=29%}|
-|Stromversorgung (MicroUSB-Kabel + Netzteil)|<!-- ![Stromversorgung via Micro-USB](images/sensor/usbcharger.jpg){width=49%} -->![Stromversorgung via Micro-USB](images/sensor/usb_plug_cable.jpg){width=19%}|
-|Kleinkram (Kabel, LED, ...)|![Dupont-Kabel](images/sensor/cable_dupont.jpg){width=29%}|
+|Abbildung|Bauteil|
+|-----------------------------------------------:|:-----------------------------------------|
+|![ESP8266](images/sensor/esp8266.jpg){width=13%} <!--  * PPD42NS (Feinstaubsensor) [](images/sensor/ppd.jpg)  -->|ESP8266 (WLAN, Prozessor für Datenspeicherung)|
+|![SDS011](images/sensor/sds011.jpg){width=25%}|SDS011 (Feinstaubsensor), ersetzt PPD42NS|
+|<!-- ![DHT22](images/sensor/dht22.jpg){width=19%} -->![DHT22](images/sensor/DHT22.jpg){width=9%}|DHT22 (Sensor für Temperatur & Luftfeuchtigkeit)|
+|<!-- ![Röhren zur Montage](images/sensor/roehren.jpg){width=49%} -->![Röhren zur Montage](images/sensor/twotubes.jpg){width=29%}|Abflussröhren zur Außenmontage (Schutzhülle)|
+|<!-- ![Stromversorgung via Micro-USB](images/sensor/usbcharger.jpg){width=49%} -->![Stromversorgung via Micro-USB](images/sensor/usb_plug_cable.jpg){width=19%}|Stromversorgung (MicroUSB-Kabel + Netzteil)|
+|![Dupont-Kabel](images/sensor/cable_dupont.jpg){width=29%}|Kleinkram (Kabel 7x w-w, evtl. 1x m-m, 2x Kabelbinder)|
 
 * Zugang zu Wifi-Netzwerk (ESSID + Passphrase), optional ein Freifunk-Router
 
