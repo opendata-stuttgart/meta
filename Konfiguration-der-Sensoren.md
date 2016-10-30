@@ -8,13 +8,15 @@ vorherige Seite: [Zusammenbau der Komponenten (Montage-Einzelteile)](/opendata-s
   
 Wenn der Feinstaub-Sensor keine Verbindung zum vorkonfigurierten WLAN aufbauen kann, wird der Sensor selbst zum Hotspot. Der Name dieses Hotspots ist "Feinstaubsensor-<chipid>". Die Chip-ID sollte man bei dieser Gelegenheit gleich notieren, da diese für den Eintrag in der Sensor-Datenbank benötigt wird. Mit diesem Hotspot kann sich jedes WLAN-fähige Gerät (Tablet, Handy,...) verbinden.
 
+![Ablaufschema der Konfiguration](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/images/wificonfig/wificonfig_schema.png)
+
 #### Auf PC / Notebook
 Bitte auf PCs/Notebooks für die Konfiguration folgende Schritte durchführen:
 * Browser öffnen (dieser blockiert wohl manchmal, wenn keine Internet-Verbindung funktioniert)
 * danach den Sensor durch kurzes Herausziehen und Wiedereinstecken des Netzteils neu starten
 * ca. 1 Minute warten (manchmal braucht der Sensor etwas länger zum Starten)
 * PC/Notebook mit dem Hotspot "Feinstaubsensor-XXXXXX" verbinden, kurz warten bis die Verbindung hergestellt ist
-* Dann im Browser http://192.168.4.1/ öffnen und den Sensor konfigurieren
+* Dann im Browser [http://192.168.4.1/](http://192.168.4.1/) öffnen und den Sensor konfigurieren
   
 #### Mit dem Handy
 Unter Android sieht dies z.B. so aus:  

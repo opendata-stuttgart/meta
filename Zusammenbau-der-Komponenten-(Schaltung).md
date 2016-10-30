@@ -8,7 +8,7 @@ Es scheint so, als ob die "Original-Firmware" nach Auslieferung auf einen der Pi
   
 ![Schaltplan SDS011 + DHT22](https://raw.githubusercontent.com/opendata-stuttgart/meta/master/files/nodemcu-v3-schaltplan-sds011.jpg)
 
-Optional, aber besser: DHT22 +(PIN1) auch an 5V(VU), z.B. mit doppelt männlichem Dupont-Kabel auf VU Dupontbuckse aufstecken.
+Optional, aber besser: DHT22 +(PIN1) auch an 5V(VU), z.B. mit doppelt männlichem Dupont-Kabel auf VU Dupontbuchse aufstecken.
 
 ### Anschluß SDS011  
 Pins sind von RECHTS nach LINKS nummeriert, beim Verbinden darauf achten, das die Kabel wirklich auf den Pins stecken, da die meisten Dupont-Kabel auch "neben" die Pins passen  
