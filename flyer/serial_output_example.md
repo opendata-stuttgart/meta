@@ -5,6 +5,7 @@ Im folgenden ein Beispiel für die Ausgaben auf der seriellen Schnittstelle, wen
 * Treiber müssen unter Windows und OSX erst installiert werden, dann ein Terminalprogramm o.ä. verwenden
 * Linux: `screen /dev/ttyUSB0` oder mit GUI z.B. `cutecom`
 
+~~~
 
     output on serial
     mounting FS...
@@ -96,3 +97,5 @@ Im folgenden ein Beispiel für die Ausgaben auf der seriellen Schnittstelle, wen
     closing connection
     ------
     End connecting to www.madavi.de
+
+~~~
