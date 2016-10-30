@@ -1,15 +1,15 @@
 # Station bauen{.allowframebreaks}
 
-Diese Anleitung erläutert den Zusammenbau einer Feinstaubmesstation, wie sie im OK-Lab Stuttgart entwickelt wurde.
+Diese Anleitung erläutert den Zusammenbau einer Feinstaubmesstation, wie sie im OK-Lab Stuttgart entwickelt wurde.  
 
 ## Einzelteile, die benötigt werden{.allowframebreaks}
 
 |Bauteil|Abbildung|
 |:-----------------------------------------|-----------------------------------------------:|
-|ESP8266 (WLAN, Prozessor)|![ESP8266](images/sensor/esp8266.jpg){width=13%} <!--  * PPD42NS (Feinstaub messen) [](images/sensor/ppd.jpg)  -->|
-|SDS011 (Feinstaub messen), ersetzt PPD42NS|![SDS011](images/sensor/sds011.jpg){width=25%}|
-|DHT22 (Temperatur & Luftfeuchtigkeit)|<!-- ![DHT22](images/sensor/dht22.jpg){width=19%} -->![DHT22](images/sensor/DHT22.jpg){width=9%}|
-|Abflussröhren zur Außenmontage|<!-- ![Röhren zur Montage](images/sensor/roehren.jpg){width=49%} -->![Röhren zur Montage](images/sensor/twotubes.jpg){width=29%}|
+|ESP8266 (WLAN, Prozessor für Datenspeicherung)|![ESP8266](images/sensor/esp8266.jpg){width=13%} <!--  * PPD42NS (Feinstaubsensor) [](images/sensor/ppd.jpg)  -->|
+|SDS011 (Feinstaubsensor), ersetzt PPD42NS|![SDS011](images/sensor/sds011.jpg){width=25%}|
+|DHT22 (Sensor für Temperatur & Luftfeuchtigkeit)|<!-- ![DHT22](images/sensor/dht22.jpg){width=19%} -->![DHT22](images/sensor/DHT22.jpg){width=9%}|
+|Abflussröhren zur Außenmontage (Schutzhülle)|<!-- ![Röhren zur Montage](images/sensor/roehren.jpg){width=49%} -->![Röhren zur Montage](images/sensor/twotubes.jpg){width=29%}|
 |Stromversorgung (MicroUSB-Kabel + Netzteil)|<!-- ![Stromversorgung via Micro-USB](images/sensor/usbcharger.jpg){width=49%} -->![Stromversorgung via Micro-USB](images/sensor/usb_plug_cable.jpg){width=19%}|
 |Kleinkram (Kabel, LED, ...)|![Dupont-Kabel](images/sensor/cable_dupont.jpg){width=29%}|
 
@@ -32,9 +32,9 @@ Es scheint so, als ob die "Original-Firmware" nach Auslieferung auf einen der Pi
 
 <!-- --- -->
 
-### Anschluss SDS011{.allowframebreaks}
+### Anschluss SDS011 an ESP {.allowframebreaks}
 
-Pins sind von RECHTS nach LINKS nummeriert, beim Verbinden darauf achten, das die Kabel wirklich auf den Pins stecken, da die meisten Dupont-Kabel auch "neben" die Pins passen
+Pins sind von RECHTS nach LINKS nummeriert. Beim Verbinden darauf achten, dass die Kabel AUF den Pins stecken, da die meisten Dupont-Kabel auch "NEBEN" die Pins passen.
 
     SDS011 Pin 1 -> Pin D1 / GPIO5
     SDS011 Pin 2 -> Pin D2 / GPIO4
@@ -46,27 +46,28 @@ Pins sind von RECHTS nach LINKS nummeriert, beim Verbinden darauf achten, das di
 
 <!-- --- -->
 
-### Anschluss des DHT22{.allowframebreaks}
+### Anschluss des DHT22 an ESP {.allowframebreaks}
 
-Pins sind von LINKS nach RECHTS nummeriert, Vorderseite ist das "Gitter"
+Pins sind von LINKS nach RECHTS nummeriert; Vorderseite ist das "Gitter"
 
     DHT22 Pin 1 -> Pin 3V3 (3.3V)
     DHT22 Pin 2 -> Pin D7 (GPIO13)
     DHT22 Pin 3 -> unused
     DHT22 Pin 4 -> Pin GND
 
-Optional, aber besser: DHT22 +(PIN1) auch an 5V(VU), z.B. mit doppelt männlichem Dupont-Kabel auf VU Dupontbuckse aufstecken.
+Optional, und besser: DHT22 +(PIN1) auch an 5V(VU), z.B. mit doppelt männlichem Dupont-Kabel auf VU Dupontbuchse aufstecken.
 
 <!-- --- -->
 
-### Einbau in Röhren{.allowframebreaks}
+### Einbau der Elektronik in Schutzhülle, bzw. Röhren{.allowframebreaks}
 
 ![Zusammenstecken mit Kabelbindern](images/sensor/assembled_fixed.jpg){width=49%}
 ![Einbau in Röhre](images/sensor/assembled_fixed_in1tube.jpg){width=49%}
 
-* Mit zwei Kabelbindern die Teile so zusammenbinden, dass sie genau in die Röhren passen
+Vor dem Einbau die Nummer des Sensors auf die Röhren schreiben.
+* Mit zwei Kabelbindern die Teile so zusammenbinden, dass sie genau in die Röhren passen, dabei Kabel nich dazwischen quetschen
 * Einbau so, dass der Lüfter des SDS unten ist und auf der Röhrenseite *ohne* Gummidichtung
-* zweites Teil aufstecken, dabei USB-Kabel herausführen
+* Röhre 2 über Elektronik schieben und auf Röhre 1 stecken, dabei USB-Kabel herausführen (siehe Foto Einzelteile)
 
 ## Konfiguration der Station{.allowframebreaks}
 
@@ -78,8 +79,8 @@ Optional, aber besser: DHT22 +(PIN1) auch an 5V(VU), z.B. mit doppelt männliche
 
 
 * Station einschalten (Stromkabel verbinden)
-* die Station versucht, sich auf den konfigurierten WLAN-Accesspoint zu verbinden
-* wenn das nicht klappt, öffnet der Sensor einen Accesspoint mit dem Namen *Feinstaubsensor-ID*, wobei ID die ChipID (in dezimal) ist.
+* Die Station versucht, sich auf den konfigurierten WLAN-Accesspoint zu verbinden
+* Wenn das nicht klappt, öffnet der Sensor einen Accesspoint mit dem Namen *Feinstaubsensor-ID*, wobei ID die ChipID (in dezimal) ist.
     * Man verbinde sich mit diesem Wireless-Netzwerk
     * und rufe dann die Seite \href{http://192.168.4.1/}{http://192.168.4.1/} auf, dort kann der Sensor konfiguriert werden
     
