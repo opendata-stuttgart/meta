@@ -1,6 +1,6 @@
 # Station bauen{.allowframebreaks}
 
-Diese Anleitung erläutert den Zusammenbau einer Feinstaubmesstation, wie sie im OK-Lab Stuttgart entwickelt wurde.  
+Diese Anleitung erläutert den Zusammenbau einer Feinstaubmesstation, wie sie im OK-Lab Stuttgart entwickelt wurde *(Dokumentversion: 2016-11-11)*.
 
 ## Einzelteile, die benötigt werden{.allowframebreaks}
 
@@ -20,7 +20,7 @@ Diese Anleitung erläutert den Zusammenbau einer Feinstaubmesstation, wie sie im
 
 ## Zusammenbau{.allowframebreaks}
 
-Siehe Wiki unter \href{https://github.com/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten}{github.com/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten}
+Siehe Wiki unter [github.com/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten](https://github.com/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten)
 
 ![Bauplan SDS](../files/nodemcu-v3-schaltplan-sds011.jpg){width=49%,angle=90}
 
@@ -82,7 +82,7 @@ Vor dem Einbau die Nummer des Sensors auf die Röhren schreiben.
 * Die Station versucht, sich auf den konfigurierten WLAN-Accesspoint zu verbinden
 * Wenn das nicht klappt, öffnet der Sensor einen Accesspoint mit dem Namen *Feinstaubsensor-ID*, wobei ID die ChipID (in dezimal) ist.
     * Man verbinde sich mit diesem Wireless-Netzwerk
-    * und rufe dann die Seite \href{http://192.168.4.1/}{http://192.168.4.1/} auf, dort kann der Sensor konfiguriert werden
+    * und rufe dann die Seite [http://192.168.4.1/](http://192.168.4.1/) auf, dort kann der Sensor konfiguriert werden
     
         *Achtung:* Der Sensor versucht beim Start eine Verbindung zum WLAN, wenn das nicht funktioniert (nach ca. 10-20 sec.), dann erzeugt er diesen WLAN-Accesspoint (Oft braucht der Rechner auch noch ein bisschen Zeit, bis er das Netz "bemerkt"). Die Konfiguration ist für 300 sec erreichbar, im Zweifel nur SSID und Passwort eintragen, ich hatte schon beim senden, dass der AP schon wieder weg war (Browser meldet Netzwerkfehler). Es gibt einen Reset-Knopf (RST) links neben der USB-Buchse zum Reboot.
     * unter *Configure Wifi* SSID und password des eigenen Netzes eintragen
@@ -111,6 +111,25 @@ Vor dem Einbau die Nummer des Sensors auf die Röhren schreiben.
 	  [192.168.4.1/wifisave?s=MYESSID&p=MYPASSWORD&send2dusti=1&send2madavi=1&send2csv=0&dht_read=1&ppd_read=0&sds_read=1&bmp_read=0&auto_update=1&has_display=0&debug=3&%CC.%FF%3F%BC%94%FE%3F%CC%3B%FF%3F%0D%0A=0](http://192.168.4.1/wifisave?s=MYESSID&p=MYPASSWORD&send2dusti=1&send2madavi=1&send2csv=0&dht_read=1&ppd_read=0&sds_read=1&bmp_read=0&auto_update=1&has_display=0&debug=3&%CC.%FF%3F%BC%94%FE%3F%CC%3B%FF%3F%0D%0A=0)
 
 ![Ablaufplan Konfiguration mittels "Wificonfig"](../images/wificonfig/wificonfig_schema.pdf){height=90%}
+
+## Informationen für die Datenbank/Kontakt
+
+Damit der Sensor am Netzwerk teilnehmen und in die Datenbank Werte liefern darf, muss er von einem der Admins eingetragen werden.
+Dafür werden folgende Angaben benötigt:
+
+* **SensorID**: der Accesspoint hat den Namen *Feinstaub-SensorID*, sonst eventuell Zettel auf Chip oder auch seriell (via USB) auslesbar.
+* **Emailadresse**: Emailadresse (und Name) für eventuelle Benachrichtigungen.
+* Standortdaten: 
+
+    * **Breite, Länge**: um den Sensor auf der Karte anzuzeigen, werden Breite und Länge als Dezimalzahl benötigt, abgreifen z.B. unter [map.freifunk-stuttgart.de](http://map.freifunk-stuttgart.de). Beispiel: *48.5000 9.5000*, die koordinaten werden bei Herausgabe auf drei Nachkommastellen gerundet, das ergibt ein 70x120m Raster.
+    * **PLZ, Ort, Straße Hausnummer**: nur für internen Gebrauch in der DB (Sortierung)
+    * **Beschreibung Stationsplatz**: kurze Beschreibung, wo die Station hängt (Höhe über Grund, Hauswand/Balkon, Straßenseite etc.), gerne auch etwas über unmittelbar benachbarte Emittenten (Bundesstraße mit Berufsverkehr, Fußgängerzone, Raucherecke etc)
+
+Persönliche Daten sind nur für interne Zwecke und werden niemals herausgegeben (Koordinaten werden gerundet).
+Nach dem Eintrag in die Datenbank ergeben sich IDs, die die Admins gerne mitteilen: **nodeID** für den ESP und eine **sensorID** pro Sensor (SDS, DHT), die im Export auftauchen können. IDs auf die zu Röhre schreiben ist sinnvoll.
+
+
+# Serielle Kommunikation
 
 Ein Beispiel für die serielle Kommunikation, sofern das USB-Kabel an einen Rechner angeschlossen ist, gibt es unter
 [https://github.com/opendata-stuttgart/meta/blob/master/flyer/serial_output_example.md](https://github.com/opendata-stuttgart/meta/blob/master/flyer/serial_output_example.md).

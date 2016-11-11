@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# update versioncounter
+docvfile="docversion.tex"
+vcnt="$(date -I)"
+echo "$vcnt" > "$docvfile"
+sed -i -e "s#Dokumentversion: [-0-9]*#Dokumentversion: $vcnt#" assemble_station.md
+
 pdflatex flyer_luftdaten
 pdflatex flyer_luftdaten
 
