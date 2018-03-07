@@ -10,5 +10,6 @@ Bitte [Issues](https://github.com/opendata-stuttgart/meta/issues) (für Hinweise
 ![Deployed sensor at facade](images/PPD_DHT_deployed_BirkachMitteStra.jpg)
 
 * Flyer: [flyer/flyer_luftdaten.300dpi.pdf](flyer/flyer_luftdaten.300dpi.pdf)
-* Bauanleitung: [flyer/assemble_station.md.150dpi.pdf](flyer/assemble_station.md.150dpi.pdf), s. auch [Wiki: Zusammenbau der Komponenten](https://github.com/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten)
+* Bauanleitung: [flyer/assemble_station.150dpi.pdf](flyer/assemble_station.150dpi.pdf), 
+* siehe auch [Wiki: Zusammenbau der Komponenten Einzelteile](https://github.com/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten-(Montage-Einzelteile)) und [Wiki: Zusammenbau der Komponenten Schaltung](https://github.com/opendata-stuttgart/meta/wiki/Zusammenbau-der-Komponenten-(Schaltung)))
 
