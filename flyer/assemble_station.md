@@ -1,6 +1,6 @@
 # Station bauen{.allowframebreaks}
 
-Diese Anleitung erläutert den Zusammenbau einer Feinstaubmesstation, wie sie im OK-Lab Stuttgart entwickelt wurde *(Dokumentversion: 2016-11-11)*.
+Diese Anleitung erläutert den Zusammenbau einer Feinstaubmesstation, wie sie im OK-Lab Stuttgart entwickelt wurde *(Dokumentversion: 2018-09-02)*.
 
 ## Einzelteile, die benötigt werden{.allowframebreaks}
 
